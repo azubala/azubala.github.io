@@ -4,12 +4,12 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
-                        <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
+                        <h3>{{ site.footer.contactInfo }}</h3>
+                        <div>
+                            {% for contact in site.contactInfo %}
+                                {{ contact.line }} <br>
 		                    {% endfor %}
-                        </p>
+                        </div>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
@@ -23,7 +23,11 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
+                        <div>
+                            {% for credit in site.credits %}
+                                {{ credit.line }} <br>
+                            {% endfor %}
+                        </div>
                     </div>
                 </div>
             </div>
