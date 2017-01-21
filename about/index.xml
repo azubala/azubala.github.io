@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Aleksnader Zubala</title>
-    <link>http://example.org/about/index.xml</link>
+    <link>http://zubala.com/about/index.xml</link>
     <description>Recent content in Abouts on Aleksnader Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 21 Jan 2017 14:37:18 +0100</lastBuildDate>
-    <atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://zubala.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://example.org/about/</link>
+      <link>http://zubala.com/about/</link>
       <pubDate>Sat, 21 Jan 2017 14:37:18 +0100</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://zubala.com/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a software developer from Warsaw, Poland. I have graduated from &lt;a href=&#34;http://www.elka.pw.edu.pl/eng&#34;&gt;Warsaw University of Technology at the Faculty of Electronics and Information Technology&lt;/a&gt;. I have solid background in digital signal processing and advanced video coding.&lt;/p&gt;
 
 &lt;p&gt;Software was my hobby from an early age, my first code was on Amstrad in &lt;code&gt;QBASIC&lt;/code&gt;. I&amp;rsquo;m passionate about Apple products and my favourite programming languages are: &lt;code&gt;Swift&lt;/code&gt;, &lt;code&gt;Objective-C&lt;/code&gt;, &lt;code&gt;C&lt;/code&gt; and &lt;code&gt;Python&lt;/code&gt;.&lt;/p&gt;
