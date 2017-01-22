@@ -8,7 +8,6 @@ showpagemeta = true
 date = "2017-01-21T14:37:18+01:00"
 title = "About me"
 showcomments = false
-
 +++
 
 I'm a software developer from Warsaw, Poland. I have graduated from [Warsaw University of Technology at the Faculty of Electronics and Information Technology](http://www.elka.pw.edu.pl/eng). I have solid background in digital signal processing and advanced video coding.
