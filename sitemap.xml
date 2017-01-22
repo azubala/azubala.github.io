@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zubala.com/faktura/</loc>
+    <lastmod>2017-01-22T19:52:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://zubala.com/about/</loc>
     <lastmod>2017-01-21T14:37:18+01:00</lastmod>
   </url>
@@ -53,7 +58,7 @@
   
   <url>
     <loc>http://zubala.com/</loc>
-    <lastmod>2017-01-21T14:37:18+01:00</lastmod>
+    <lastmod>2017-01-22T19:52:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,6 +83,12 @@
   <url>
     <loc>http://zubala.com/tags/coretext/</loc>
     <lastmod>2012-03-01T15:57:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zubala.com/tags/faktura/</loc>
+    <lastmod>2017-01-22T19:52:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,6 +166,12 @@
   <url>
     <loc>http://zubala.com/tags/uicollectionview/</loc>
     <lastmod>2014-08-01T15:50:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zubala.com/tags/vat/</loc>
+    <lastmod>2017-01-22T19:52:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
