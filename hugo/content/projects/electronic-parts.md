@@ -15,6 +15,14 @@ role = "Team member at Taptera Inc."
 
 +++
 
+---
+**Client:**	Electronic Parts Company</br>
+**Platform:**	iPad Application</br>
+**Role:**		Team member at Taptera Inc.</br>
+
+---
+
+
 ### Overview
 
 An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell. 

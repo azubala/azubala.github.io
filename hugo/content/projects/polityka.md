@@ -9,11 +9,15 @@ showpagemeta = true
 comments = false
 draft = false
 
-client = "Polityka on iPad"
-platform = "iPad Application"
-role = "Developer, Support for the Project Management, team member at Polidea"
-
 +++
+
+---
+**Client:**	Polityka</br>
+**Platform:**	iPad Application</br>
+**Role:**		Developer, Support for the Project Management</br>
+
+---
+
 
 ### Overview
 

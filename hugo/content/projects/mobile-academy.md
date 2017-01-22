@@ -15,6 +15,14 @@ role = "Tutor"
 
 +++
 
+---
+**Client:**	Mobile Academy</br>
+**Platform:**	iOS</br>
+**Role:**		Tutor</br>
+
+---
+
+
 ### Overview
 
 Co-founder of [Mobile Academy](http://mobile-academy.io) organistation which orgnise workshops for the iOS community around Poland and Europe. 

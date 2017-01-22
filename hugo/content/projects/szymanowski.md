@@ -9,11 +9,14 @@ slug = ""
 comments = false
 title = "Szymanowski iPad Application"
 
-client = "Szymanowski"
-platform = "iPad Application"
-role = "Developer, Design, freelancing"
-
 +++
+---
+**Client:**	Szymanowski</br>
+**Platform:**	iPad Application</br>
+**Role:**		Developer, Design</br>
+
+---
+
 
 ### Overview
 

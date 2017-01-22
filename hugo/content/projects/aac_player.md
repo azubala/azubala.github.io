@@ -9,11 +9,14 @@ categories = []
 comments = false
 showcomments = false
 
-client = "AAC+ Player"
-platform = "iOS Framework"
-role = "Developer, Solution Architect, freelancing"
-
 +++
+
+---
+**Client:** AAC+ Player</br>
+**Platform:** iOS Framework</br>
+**Role:** Developer, Solution Architect</br>
+
+---
 
 ### Overview
 

@@ -16,6 +16,14 @@
       <guid>http://zubala.com/projects/aac_player/</guid>
       <description>
 
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; AAC+ Player&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt; iOS Framework&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt; Developer, Solution Architect&lt;/br&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for bufferning the stream and playback control. Library packaged in the way the systems frameworks are.&lt;/p&gt;

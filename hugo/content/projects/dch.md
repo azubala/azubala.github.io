@@ -9,11 +9,13 @@ date = "2012-01-05T15:47:26+01:00"
 showcomments = false
 tags = ["iOS", "iPad", "Berlin", "Neofonie"]
 
-client = "Berliner Phil"
-platform = "iPad Application"
-role = "Technical Project Lead, Support for the Project Management, Developer at Nefonie GmbH"
-
 +++
+---
+**Client:**	Berliner Phil</br>
+**Platform:**	iPad Application</br>
+**Role:**		Technical Project Lead, Support for the Project Management</br>
+
+---
 
 ### Overview
 

@@ -9,11 +9,15 @@ comments = false
 draft = false
 showcomments = false
 
-client = "Polish Insurance Company"
-platform = "iOS Universal Application"
-role = "Team member, freelancing"
-
 +++
+
+---
+**Client:**	Polish Insurance Company</br>
+**Platform:**	iOS Universal Application</br>
+**Role:**		Team member, freelancing</br>
+
+---
+
 
 ### Overview
 

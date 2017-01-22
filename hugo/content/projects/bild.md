@@ -9,11 +9,13 @@ title = "Bild.de iPad Application"
 showpagemeta = true
 categories = []
 
-client = "Bild.de"
-platform = "iPad Application"
-role = "Technical Project Lead, Support for Project Management, Developer at Nefonie GmbH"
-
 +++
+---
+**Client:**	Bild.de</br>
+**Platform:**	iPad Application</br>
+**Role:**		Technical Project Lead, Support for Project Management</br>
+
+---
 
 ### Overview
 
