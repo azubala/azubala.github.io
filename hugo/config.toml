@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "../"
 
-author = "Aleksnader Zubala"
-title = "Aleksnader Zubala"
+author = "Aleksander Zubala"
+title = "Aleksander Zubala"
 
 theme = "hugo-goa"
 
