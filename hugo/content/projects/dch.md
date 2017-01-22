@@ -10,12 +10,6 @@ showcomments = false
 tags = ["iOS", "iPad", "Berlin", "Neofonie"]
 
 +++
----
-**Client:**	Berliner Phil</br>
-**Platform:**	iPad Application</br>
-**Role:**		Technical Project Lead, Support for the Project Management</br>
-
----
 
 ### Overview
 
@@ -28,3 +22,10 @@ Clean design, presents the content without any distraction. Available on the App
 ### Technical details
 
 Efficient horizontal scroll view based on `UIScrollView`, to handle hundreds of archive concerts. HTTP Live streaming and integreation with Apple's In-App purchase framework `StoreKit`.
+
+---
+<sup>
+**Client:**	Berliner Phil</br>
+**Platform:**	iPad Application</br>
+**Role:**		Technical Project Lead, Support for the Project Management
+</sup>

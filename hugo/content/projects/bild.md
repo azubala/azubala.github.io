@@ -10,12 +10,6 @@ showpagemeta = true
 categories = []
 
 +++
----
-**Client:**	Bild.de</br>
-**Platform:**	iPad Application</br>
-**Role:**		Technical Project Lead, Support for Project Management</br>
-
----
 
 ### Overview
 
@@ -28,3 +22,10 @@ Available in AppStore on May 2013.
 ### Technical details
 
 Custom `UICollectionView`-like mechanisms to implement dynamic feeds display (support for iOS 5.x prevents from using original components), feed caching mechanisms, Single Sign On/One Click Buy
+
+---
+<sup>
+**Client:**	Bild.de</br>
+**Platform:**	iPad Application</br>
+**Role:**		Technical Project Lead, Support for Project Management
+</sup>

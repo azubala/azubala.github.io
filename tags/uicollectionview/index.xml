@@ -16,14 +16,6 @@
       <guid>http://zubala.com/projects/electronic-parts/</guid>
       <description>
 
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; Electronic Parts Company&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Team member at Taptera Inc.&lt;/br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.&lt;/p&gt;
@@ -33,6 +25,14 @@
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
 
 &lt;p&gt;I was responsible for the component for designing and rendering diagrams on the iPad. Solution was based on the Apple&amp;rsquo;s &lt;code&gt;UICollectionView&lt;/code&gt; and custom layout. The most challenging part was to optimize performance of the diagram. It could contain multiple items connected to each other.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Electronic Parts Company&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Team member at Taptera Inc.
+&lt;/sup&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -43,14 +43,6 @@
       
       <guid>http://zubala.com/projects/bild/</guid>
       <description>
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management&lt;/br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
@@ -63,6 +55,14 @@
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
 
 &lt;p&gt;Custom &lt;code&gt;UICollectionView&lt;/code&gt;-like mechanisms to implement dynamic feeds display (support for iOS 5.x prevents from using original components), feed caching mechanisms, Single Sign On/One Click Buy&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management
+&lt;/sup&gt;&lt;/p&gt;
 </description>
     </item>
     

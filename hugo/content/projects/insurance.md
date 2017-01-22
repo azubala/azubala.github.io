@@ -11,14 +11,6 @@ showcomments = false
 
 +++
 
----
-**Client:**	Polish Insurance Company</br>
-**Platform:**	iOS Universal Application</br>
-**Role:**		Team member, freelancing</br>
-
----
-
-
 ### Overview
 
 Mobile application that allows user to file an insurance claim and track its status.
@@ -29,3 +21,9 @@ Claim reports were persistent and could be continued at any time. User could als
 
 Application communicated with the backend service with **SOAP** technology. Forms were based on the custom built framework based on the `UITableView`.
 
+---
+<sup>
+**Client:**	Polish Insurance Company</br>
+**Platform:**	iOS Universal Application</br>
+**Role:**		Team member
+</sup>

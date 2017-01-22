@@ -16,14 +16,6 @@
       <guid>http://zubala.com/projects/polityka/</guid>
       <description>
 
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; Polityka&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Developer, Support for the Project Management&lt;/br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;iPad’s edition of the polish weekly magazine, based on the [Pixblish]() framework.
@@ -36,6 +28,14 @@ Newsstand app for the fully native app.&lt;/p&gt;
 &lt;p&gt;This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on &lt;code&gt;XML&lt;/code&gt; description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.&lt;/p&gt;
 
 &lt;p&gt;Integration of Apple&amp;rsquo;s framework for Newsstand and In-App Purchase. The main challenge was to test auto-renewable subscriptions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Polityka&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Developer, Support for the Project Management
+&lt;/sup&gt;&lt;/p&gt;
 </description>
     </item>
     

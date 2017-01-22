@@ -10,13 +10,6 @@ comments = false
 title = "Szymanowski iPad Application"
 
 +++
----
-**Client:**	Szymanowski</br>
-**Platform:**	iPad Application</br>
-**Role:**		Developer, Design</br>
-
----
-
 
 ### Overview
 
@@ -27,3 +20,11 @@ Available on the AppStore.
 ### Technical details
 
 Custom framework based on Apple's `CoreText` for rendering rich text with style and hyper links (before `TextKit` was available). 
+
+---
+
+<sup>
+**Client:** Szymanowski </br>
+**Platform:** iPad Application </br>
+**Role:** Developer, Design
+</sup>

@@ -16,14 +16,6 @@
       <guid>http://zubala.com/projects/bild/</guid>
       <description>
 
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management&lt;/br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.&lt;/p&gt;
@@ -35,6 +27,14 @@
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
 
 &lt;p&gt;Custom &lt;code&gt;UICollectionView&lt;/code&gt;-like mechanisms to implement dynamic feeds display (support for iOS 5.x prevents from using original components), feed caching mechanisms, Single Sign On/One Click Buy&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management
+&lt;/sup&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -45,14 +45,6 @@
       
       <guid>http://zubala.com/projects/dch/</guid>
       <description>
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; Berliner Phil&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for the Project Management&lt;/br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
@@ -65,6 +57,14 @@
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
 
 &lt;p&gt;Efficient horizontal scroll view based on &lt;code&gt;UIScrollView&lt;/code&gt;, to handle hundreds of archive concerts. HTTP Live streaming and integreation with Apple&amp;rsquo;s In-App purchase framework &lt;code&gt;StoreKit&lt;/code&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Berliner Phil&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for the Project Management
+&lt;/sup&gt;&lt;/p&gt;
 </description>
     </item>
     

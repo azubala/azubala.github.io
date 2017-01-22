@@ -11,14 +11,6 @@ draft = false
 
 +++
 
----
-**Client:**	Polityka</br>
-**Platform:**	iPad Application</br>
-**Role:**		Developer, Support for the Project Management</br>
-
----
-
-
 ### Overview
 
 iPad’s edition of the polish weekly magazine, based on the [Pixblish]() framework. 
@@ -31,3 +23,10 @@ At the time, the app was the first polish app which used auto – renewable subs
 This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on `XML` description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.
 
 Integration of Apple's framework for Newsstand and In-App Purchase. The main challenge was to test auto-renewable subscriptions.
+
+---
+<sup>
+**Client:**	Polityka</br>
+**Platform:**	iPad Application</br>
+**Role:**		Developer, Support for the Project Management
+</sup>
