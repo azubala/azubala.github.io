@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taptera on Aleksnader Zubala</title>
+    <link>http://zubala.com/tags/taptera/index.xml</link>
+    <description>Recent content in Taptera on Aleksnader Zubala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://zubala.com/tags/taptera/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Electronic Parts Company</title>
+      <link>http://zubala.com/projects/electronic-parts/</link>
+      <pubDate>Fri, 01 Aug 2014 15:50:30 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/electronic-parts/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.&lt;/p&gt;
+
+&lt;p&gt;Application was integrated with Salesforce, this way when sales rep created diagram, he could directly from the app create leads and opportunities on Salesforce platform.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;I was responsible for the component for designing and rendering diagrams on the iPad. Solution was based on the Apple&amp;rsquo;s &lt;code&gt;UICollectionView&lt;/code&gt; and custom layout. The most challenging part was to optimize performance of the diagram. It could contain multiple items connected to each other.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

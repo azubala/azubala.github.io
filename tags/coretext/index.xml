@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coretext on Aleksnader Zubala</title>
+    <link>http://zubala.com/tags/coretext/index.xml</link>
+    <description>Recent content in Coretext on Aleksnader Zubala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://zubala.com/tags/coretext/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Szymanowski iPad Application</title>
+      <link>http://zubala.com/projects/szymanowski/</link>
+      <pubDate>Thu, 01 Mar 2012 15:57:30 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/szymanowski/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.&lt;/p&gt;
+
+&lt;p&gt;Available on the AppStore.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Custom framework based on Apple&amp;rsquo;s &lt;code&gt;CoreText&lt;/code&gt; for rendering rich text with style and hyper links (before &lt;code&gt;TextKit&lt;/code&gt; was available).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polityka on iPad</title>
+      <link>http://zubala.com/projects/polityka/</link>
+      <pubDate>Fri, 01 Jan 2010 15:56:13 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/polityka/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;iPad’s edition of the polish weekly magazine, based on the [Pixblish]() framework.
+Newsstand app for the fully native app.&lt;/p&gt;
+
+&lt;p&gt;At the time, the app was the first polish app which used auto – renewable subscription for the subscription.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on &lt;code&gt;XML&lt;/code&gt; description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.&lt;/p&gt;
+
+&lt;p&gt;Integration of Apple&amp;rsquo;s framework for Newsstand and In-App Purchase. The main challenge was to test auto-renewable subscriptions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

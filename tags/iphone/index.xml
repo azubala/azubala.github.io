@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iphone on Aleksnader Zubala</title>
+    <link>http://zubala.com/tags/iphone/index.xml</link>
+    <description>Recent content in Iphone on Aleksnader Zubala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://zubala.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>App for Insurance Company</title>
+      <link>http://zubala.com/projects/insurance/</link>
+      <pubDate>Mon, 01 Jul 2013 15:52:28 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/insurance/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Mobile application that allows user to file an insurance claim and track its status.&lt;/p&gt;
+
+&lt;p&gt;Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Application communicated with the backend service with &lt;strong&gt;SOAP&lt;/strong&gt; technology. Forms were based on the custom built framework based on the &lt;code&gt;UITableView&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

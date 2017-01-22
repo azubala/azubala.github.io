@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freelance on Aleksnader Zubala</title>
+    <link>http://zubala.com/tags/freelance/index.xml</link>
+    <description>Recent content in Freelance on Aleksnader Zubala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://zubala.com/tags/freelance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>App for Insurance Company</title>
+      <link>http://zubala.com/projects/insurance/</link>
+      <pubDate>Mon, 01 Jul 2013 15:52:28 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/insurance/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Mobile application that allows user to file an insurance claim and track its status.&lt;/p&gt;
+
+&lt;p&gt;Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Application communicated with the backend service with &lt;strong&gt;SOAP&lt;/strong&gt; technology. Forms were based on the custom built framework based on the &lt;code&gt;UITableView&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Academy</title>
+      <link>http://zubala.com/projects/mobile-academy/</link>
+      <pubDate>Wed, 01 May 2013 15:54:36 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/mobile-academy/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Co-founder of &lt;a href=&#34;http://mobile-academy.io&#34;&gt;Mobile Academy&lt;/a&gt; organistation which orgnise workshops for the iOS community around Poland and Europe.&lt;/p&gt;
+
+&lt;p&gt;So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;ve conducted the following workshops:
+- Introduction to TDD on iOS
+- Workshop about &lt;code&gt;UICollectionView&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And we are constantly working on new ones.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Szymanowski iPad Application</title>
+      <link>http://zubala.com/projects/szymanowski/</link>
+      <pubDate>Thu, 01 Mar 2012 15:57:30 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/szymanowski/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.&lt;/p&gt;
+
+&lt;p&gt;Available on the AppStore.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Custom framework based on Apple&amp;rsquo;s &lt;code&gt;CoreText&lt;/code&gt; for rendering rich text with style and hyper links (before &lt;code&gt;TextKit&lt;/code&gt; was available).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AAC&#43; Player</title>
+      <link>http://zubala.com/projects/aac_player/</link>
+      <pubDate>Tue, 01 Mar 2011 15:29:44 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/aac_player/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for bufferning the stream and playback control. Library packaged in the way the systems frameworks are.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Inegrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic &lt;code&gt;CoreAudio&lt;/code&gt; buffers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

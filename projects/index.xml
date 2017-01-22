@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aleksnader Zubala</title>
-    <link>http://zubala.com/index.xml</link>
-    <description>Recent content on Aleksnader Zubala</description>
+    <title>Projects on Aleksnader Zubala</title>
+    <link>http://zubala.com/projects/index.xml</link>
+    <description>Recent content in Projects on Aleksnader Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Jan 2017 14:37:18 +0100</lastBuildDate>
-    <atom:link href="http://zubala.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About me</title>
-      <link>http://zubala.com/about/</link>
-      <pubDate>Sat, 21 Jan 2017 14:37:18 +0100</pubDate>
-      
-      <guid>http://zubala.com/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a software developer from Warsaw, Poland. I have graduated from &lt;a href=&#34;http://www.elka.pw.edu.pl/eng&#34;&gt;Warsaw University of Technology at the Faculty of Electronics and Information Technology&lt;/a&gt;. I have solid background in digital signal processing and advanced video coding.&lt;/p&gt;
-
-&lt;p&gt;Software was my hobby from an early age, my first code was on Amstrad in &lt;code&gt;QBASIC&lt;/code&gt;. I&amp;rsquo;m passionate about Apple products and my favourite programming languages are: &lt;code&gt;Swift&lt;/code&gt;, &lt;code&gt;Objective-C&lt;/code&gt;, &lt;code&gt;C&lt;/code&gt; and &lt;code&gt;Python&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Since 2010 I professionally develop iOS applications, my first commercial project was Polityka - the polish weekly magazine on iPad.&lt;/p&gt;
-
-&lt;p&gt;In 2013 I came back to Poland after year and a half in Berlin where I worked at &lt;strong&gt;Neofonie Mobile GmbH&lt;/strong&gt;. During that period I was a lead developer of the Bild on iPad and an app for the Berliner Philharmoniker.&lt;/p&gt;
-
-&lt;p&gt;After return to Warsaw I&amp;rsquo;ve joined &lt;strong&gt;Taptera Poland&lt;/strong&gt;, were I took part in some interesting enterprise projects for US clients.&lt;/p&gt;
-
-&lt;p&gt;Currently I&amp;rsquo;m working at &lt;strong&gt;Applause Inc.&lt;/strong&gt;, where I&amp;rsquo;m responsible for  iOS team. As a part time job I&amp;rsquo;m also a co-founder of &lt;strong&gt;Mobile Academy&lt;/strong&gt; &amp;ndash; organization for mobile workshops. I&amp;rsquo;m also a consultant in &lt;strong&gt;Sependa&lt;/strong&gt; &amp;ndash; mainly helping with their flag product called Crescendo.&lt;/p&gt;
-
-&lt;p&gt;In my spare time I do a little bit of swimming and cycling (&lt;a href=&#34;https://www.strava.com/athletes/9515088&#34;&gt;follow me on Strava&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2014 15:50:30 +0100</lastBuildDate>
+    <atom:link href="http://zubala.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Electronic Parts Company</title>
