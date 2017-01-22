@@ -6,8 +6,42 @@
     <description>Recent content in Projects on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2014 15:50:30 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2015 19:36:49 +0100</lastBuildDate>
     <atom:link href="http://zubala.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Applause iOS SDK</title>
+      <link>http://zubala.com/projects/applause/</link>
+      <pubDate>Tue, 01 Sep 2015 19:36:49 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/applause/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Applause iOS SDK is a framework for &lt;a href=&#34;https://www.applause.com/mobile-beta-management/&#34;&gt;Mobie Beta Management service&lt;/a&gt;. It&amp;rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;The core code base was built in early 2010 so the most crucial task is to keep code clean and robust. We use TDD aproach and focus on test coverage, in addition we use heavily DI framework called &lt;a href=&#34;https://github.com/atomicobject/objection&#34;&gt;Objection&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Framework has three channels of distributions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;manual integration &amp;ndash; using &lt;code&gt;.framework&lt;/code&gt; package (before it was official supported in Xcode we had to built it from static library and package accordingly)&lt;/li&gt;
+&lt;li&gt;Cocoapods integration&lt;/li&gt;
+&lt;li&gt;auto instrumentation &amp;ndash; it&amp;rsquo;s an Applause inveted &lt;em&gt;magic&lt;/em&gt; which allows us to integrate our library to already built apps!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Applause Inc.&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iOS Framework&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Team Leader
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Electronic Parts Company</title>

@@ -42,13 +42,13 @@
 
 
 <header class="row text-left title">
-  <h1 class="title">Electronic Parts Company</h1>
+  <h1 class="title">Applause iOS SDK</h1>
 </header>
 <section id="category-pane" class="row meta">
   
   <div class="col-md-12">
     <h6 class="text-left meta">
-      PUBLISHED ON AUG 1, 2014 
+      PUBLISHED ON SEP 1, 2015 
       
       
     </h6>
@@ -61,20 +61,26 @@
 
 <h3 id="overview">Overview</h3>
 
-<p>An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.</p>
-
-<p>Application was integrated with Salesforce, this way when sales rep created diagram, he could directly from the app create leads and opportunities on Salesforce platform.</p>
+<p>Applause iOS SDK is a framework for <a href="https://www.applause.com/mobile-beta-management/">Mobie Beta Management service</a>. It&rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.</p>
 
 <h3 id="technical-details">Technical details</h3>
 
-<p>I was responsible for the component for designing and rendering diagrams on the iPad. Solution was based on the Apple&rsquo;s <code>UICollectionView</code> and custom layout. The most challenging part was to optimize performance of the diagram. It could contain multiple items connected to each other.</p>
+<p>The core code base was built in early 2010 so the most crucial task is to keep code clean and robust. We use TDD aproach and focus on test coverage, in addition we use heavily DI framework called <a href="https://github.com/atomicobject/objection">Objection</a>.</p>
+
+<p>Framework has three channels of distributions:</p>
+
+<ul>
+<li>manual integration &ndash; using <code>.framework</code> package (before it was official supported in Xcode we had to built it from static library and package accordingly)</li>
+<li>Cocoapods integration</li>
+<li>auto instrumentation &ndash; it&rsquo;s an Applause inveted <em>magic</em> which allows us to integrate our library to already built apps!</li>
+</ul>
 
 <hr />
 
 <p><sup>
-<strong>Client:</strong> Electronic Parts Company</br>
-<strong>Platform:</strong>   iPad Application</br>
-<strong>Role:</strong>       Team member at Taptera Inc.
+<strong>Client:</strong> Applause Inc.</br>
+<strong>Platform:</strong>   iOS Framework</br>
+<strong>Role:</strong>       Team Leader
 </sup></p>
 
   </div>
@@ -88,13 +94,13 @@
       TAGS: 
       
       
-      <a class="meta" href="/tags/taptera">TAPTERA</a>, 
+      <a class="meta" href="/tags/applause">APPLAUSE</a>, 
       
-      <a class="meta" href="/tags/uicollectionview">UICOLLECTIONVIEW</a>, 
+      <a class="meta" href="/tags/mbm">MBM</a>, 
       
-      <a class="meta" href="/tags/ios">IOS</a>, 
+      <a class="meta" href="/tags/sdk">SDK</a>, 
       
-      <a class="meta" href="/tags/ipad">IPAD</a>
+      <a class="meta" href="/tags/ios">IOS</a>
       
       
     </h6>
@@ -108,13 +114,11 @@
 <section id="menu-pane" class="row menu text-center">
   
   
-  <span><a class="menu-item" href="http://zubala.com/projects/insurance/">&lt; prev | </a></span>
+  <span><a class="menu-item" href="http://zubala.com/projects/electronic-parts/">&lt; prev | </a></span>
   
   
   <span><a class="menu-item" href="/projects">projects</a></span>
   
-  
-  <span><a class="menu-item" href="http://zubala.com/projects/applause/"> | next &gt;</a></span>
   
   
   <h4 class="text-center"><a class="menu-item" href="http://zubala.com/">home</a></h4>
