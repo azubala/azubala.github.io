@@ -1,7 +1,7 @@
 +++
 date = "2013-07-01T15:52:28+01:00"
 title = "App for Insurance Company"
-categories = []
+categories = ["project"]
 showpagemeta = true
 tags = ["iOS", "iPhone", "iPad","Freelance"]
 slug = ""

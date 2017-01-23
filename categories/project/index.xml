@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Aleksander Zubala</title>
+    <link>http://zubala.com/categories/project/index.xml</link>
+    <description>Recent content in Project on Aleksander Zubala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://zubala.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Applause iOS SDK</title>
+      <link>http://zubala.com/projects/applause/</link>
+      <pubDate>Tue, 01 Sep 2015 19:36:49 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/applause/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Applause iOS SDK is a framework for &lt;a href=&#34;https://www.applause.com/mobile-beta-management/&#34;&gt;Mobie Beta Management service&lt;/a&gt;. It&amp;rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;The core code base was built in early 2010 so the most crucial task is to keep code clean and robust. We use TDD aproach and focus on test coverage, in addition we use heavily DI framework called &lt;a href=&#34;https://github.com/atomicobject/objection&#34;&gt;Objection&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Framework has three channels of distributions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;manual integration &amp;ndash; using &lt;code&gt;.framework&lt;/code&gt; package (before it was official supported in Xcode we had to built it from static library and package accordingly)&lt;/li&gt;
+&lt;li&gt;Cocoapods integration&lt;/li&gt;
+&lt;li&gt;auto instrumentation &amp;ndash; it&amp;rsquo;s an Applause inveted &lt;em&gt;magic&lt;/em&gt; which allows us to integrate our library to already built apps!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Applause Inc.&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iOS Framework&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Team Leader
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electronic Parts Company</title>
+      <link>http://zubala.com/projects/electronic-parts/</link>
+      <pubDate>Fri, 01 Aug 2014 15:50:30 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/electronic-parts/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.&lt;/p&gt;
+
+&lt;p&gt;Application was integrated with Salesforce, this way when sales rep created diagram, he could directly from the app create leads and opportunities on Salesforce platform.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;I was responsible for the component for designing and rendering diagrams on the iPad. Solution was based on the Apple&amp;rsquo;s &lt;code&gt;UICollectionView&lt;/code&gt; and custom layout. The most challenging part was to optimize performance of the diagram. It could contain multiple items connected to each other.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Electronic Parts Company&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Team member at Taptera Inc.
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App for Insurance Company</title>
+      <link>http://zubala.com/projects/insurance/</link>
+      <pubDate>Mon, 01 Jul 2013 15:52:28 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/insurance/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Mobile application that allows user to file an insurance claim and track its status.&lt;/p&gt;
+
+&lt;p&gt;Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Application communicated with the backend service with &lt;strong&gt;SOAP&lt;/strong&gt; technology. Forms were based on the custom built framework based on the &lt;code&gt;UITableView&lt;/code&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Polish Insurance Company&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iOS Universal Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Team member
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Academy</title>
+      <link>http://zubala.com/projects/mobile-academy/</link>
+      <pubDate>Wed, 01 May 2013 15:54:36 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/mobile-academy/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Co-founder of &lt;a href=&#34;http://mobile-academy.io&#34;&gt;Mobile Academy&lt;/a&gt; organistation which orgnise workshops for the iOS community around Poland and Europe.&lt;/p&gt;
+
+&lt;p&gt;So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;ve conducted the following workshops:
+- Introduction to TDD on iOS
+- Workshop about &lt;code&gt;UICollectionView&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And we are constantly working on new ones.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Mobile Academy&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iOS&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Tutor
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bild.de iPad Application</title>
+      <link>http://zubala.com/projects/bild/</link>
+      <pubDate>Wed, 01 May 2013 15:29:44 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/bild/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.&lt;/p&gt;
+
+&lt;p&gt;Bild is all about the content; app is full of visuals, which has to be handle efficiently on all available iPad versions.&lt;/p&gt;
+
+&lt;p&gt;Available in AppStore on May 2013.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Custom &lt;code&gt;UICollectionView&lt;/code&gt;-like mechanisms to implement dynamic feeds display (support for iOS 5.x prevents from using original components), feed caching mechanisms, Single Sign On/One Click Buy&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Szymanowski iPad Application</title>
+      <link>http://zubala.com/projects/szymanowski/</link>
+      <pubDate>Thu, 01 Mar 2012 15:57:30 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/szymanowski/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.&lt;/p&gt;
+
+&lt;p&gt;Available on the AppStore.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Custom framework based on Apple&amp;rsquo;s &lt;code&gt;CoreText&lt;/code&gt; for rendering rich text with style and hyper links (before &lt;code&gt;TextKit&lt;/code&gt; was available).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Szymanowski &lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt; iPad Application &lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt; Developer, Design
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Concert Hall</title>
+      <link>http://zubala.com/projects/dch/</link>
+      <pubDate>Thu, 05 Jan 2012 15:47:26 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/dch/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;First version of the universal app for the world’s best philharmonic – Berliner Phil.&lt;/p&gt;
+
+&lt;p&gt;User can preview the past concerts and its pieces, but the most important feature is that one can experience the live concert straight from the app.&lt;/p&gt;
+
+&lt;p&gt;Clean design, presents the content without any distraction. Available on the AppStore.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Efficient horizontal scroll view based on &lt;code&gt;UIScrollView&lt;/code&gt;, to handle hundreds of archive concerts. HTTP Live streaming and integreation with Apple&amp;rsquo;s In-App purchase framework &lt;code&gt;StoreKit&lt;/code&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Berliner Phil&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for the Project Management
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AAC&#43; Player</title>
+      <link>http://zubala.com/projects/aac_player/</link>
+      <pubDate>Tue, 01 Mar 2011 15:29:44 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/aac_player/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for bufferning the stream and playback control. Library packaged in the way the systems frameworks are.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Inegrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic &lt;code&gt;CoreAudio&lt;/code&gt; buffers.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; AAC+ Player&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt; iOS Framework&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt; Developer, Solution Architect
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polityka on iPad</title>
+      <link>http://zubala.com/projects/polityka/</link>
+      <pubDate>Fri, 01 Jan 2010 15:56:13 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/polityka/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;iPad’s edition of the polish weekly magazine, based on the [Pixblish]() framework.
+Newsstand app for the fully native app.&lt;/p&gt;
+
+&lt;p&gt;At the time, the app was the first polish app which used auto – renewable subscription for the subscription.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on &lt;code&gt;XML&lt;/code&gt; description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.&lt;/p&gt;
+
+&lt;p&gt;Integration of Apple&amp;rsquo;s framework for Newsstand and In-App Purchase. The main challenge was to test auto-renewable subscriptions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Polityka&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt;       Developer, Support for the Project Management
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

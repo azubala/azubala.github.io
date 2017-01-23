@@ -1,6 +1,6 @@
 +++
 slug = ""
-categories = []
+categories = ["project"]
 tags = ["iOS", "iPad", "CoreText", "Polidea"]
 showcomments = false
 date = "2010-01-01T15:56:13+01:00"

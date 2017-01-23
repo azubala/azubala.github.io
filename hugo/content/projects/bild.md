@@ -7,7 +7,7 @@ draft = false
 slug = ""
 title = "Bild.de iPad Application"
 showpagemeta = true
-categories = []
+categories = ["project"]
 
 +++
 

@@ -5,7 +5,7 @@ tags = ["iOS", "iPad", "Taptera", "UICollectionView"]
 draft = false
 showcomments = false
 showpagemeta = true
-categories = []
+categories = ["project"]
 slug = ""
 comments = false
 

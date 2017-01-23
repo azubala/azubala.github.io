@@ -2,7 +2,7 @@
 slug = ""
 comments = false
 draft = false
-categories = []
+categories = ["project"]
 tags = ["iOS", "Mobile-Academy", "Workshops","Freelance"]
 title = "Mobile Academy"
 showcomments = false

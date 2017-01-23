@@ -5,7 +5,7 @@ slug = ""
 draft = false
 date = "2011-03-01T15:29:44+01:00"
 showpagemeta = true
-categories = []
+categories = ["project"]
 comments = false
 showcomments = false
 

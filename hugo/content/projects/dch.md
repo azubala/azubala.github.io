@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["project"]
 draft = false
 title = "Digital Concert Hall"
 showpagemeta = true
