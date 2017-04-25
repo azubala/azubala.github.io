@@ -13,7 +13,7 @@ showcomments = false
 
 ### Overview
 
- [Swifjection(https://github.com/ApplauseOSS/Swifjection) -- lightweight and simplistic dependency injection framework written in Swift for Swift .
+ [Swifjection](https://github.com/ApplauseOSS/Swifjection) -- lightweight and simplistic dependency injection framework written in Swift for Swift .
 
 The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.
 
@@ -29,7 +29,6 @@ We built **Swifjection** for our use in the first place. These are the key point
 
 ---
 <sup>
-**Client:** AAC+ Player</br>
 **Platform:** iOS Framework</br>
 **Role:** Co-Author, Developer
 </sup>
