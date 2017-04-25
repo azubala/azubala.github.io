@@ -42,13 +42,13 @@
 
 
 <header class="row text-left title">
-  <h1 class="title">Applause iOS SDK</h1>
+  <h1 class="title">Swifjection</h1>
 </header>
 <section id="category-pane" class="row meta">
   
   <div class="col-md-12">
     <h6 class="text-left meta">
-      PUBLISHED ON SEP 1, 2015 
+      PUBLISHED ON MAR 1, 2017 
       
       
       — 
@@ -67,26 +67,28 @@
 
 <h3 id="overview">Overview</h3>
 
-<p>Applause iOS SDK is a framework for <a href="https://www.applause.com/mobile-beta-management/">Mobie Beta Management service</a>. It&rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.</p>
+<p>[Swifjection(<a href="https://github.com/ApplauseOSS/Swifjection">https://github.com/ApplauseOSS/Swifjection</a>) &ndash; lightweight and simplistic dependency injection framework written in Swift for Swift .</p>
+
+<p>The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.</p>
 
 <h3 id="technical-details">Technical details</h3>
 
-<p>The core code base was built in early 2010 so the most crucial task is to keep code clean and robust. We use TDD aproach and focus on test coverage, in addition we use heavily DI framework called <a href="https://github.com/atomicobject/objection">Objection</a>.</p>
-
-<p>Framework has three channels of distributions:</p>
+<p>We built <strong>Swifjection</strong> for our use in the first place. These are the key points what was our motivation:</p>
 
 <ul>
-<li>manual integration &ndash; using <code>.framework</code> package (before it was official supported in Xcode we had to built it from static library and package accordingly)</li>
-<li>Cocoapods integration</li>
-<li>auto instrumentation &ndash; it&rsquo;s an Applause inveted <em>magic</em> which allows us to integrate our library to already built apps!</li>
+<li>No need to inherit from <code>NSObject</code> in order to inject dependencies</li>
+<li>To inject <em>pure</em> <code>Swift</code> types you just need to conform to simple <code>Injectable</code> protocol</li>
+<li>No action required to inject <code>NSObject</code> sublcasses, or classes conforming to <code>Injectable</code> protocol</li>
+<li>Clear and simple binding system inspired by Objective-C framework <a href="https://github.com/atomicobject/objection">Objection</a></li>
+<li>Lightweight &ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible</li>
 </ul>
 
 <hr />
 
 <p><sup>
-<strong>Client:</strong> Applause Inc.</br>
-<strong>Platform:</strong>   iOS Framework</br>
-<strong>Role:</strong>       Team Leader
+<strong>Client:</strong> AAC+ Player</br>
+<strong>Platform:</strong> iOS Framework</br>
+<strong>Role:</strong> Co-Author, Developer
 </sup></p>
 
   </div>
@@ -100,11 +102,9 @@
       TAGS: 
       
       
-      <a class="meta" href="/tags/applause">APPLAUSE</a>, 
+      <a class="meta" href="/tags/open-source">OPEN SOURCE</a>, 
       
-      <a class="meta" href="/tags/mbm">MBM</a>, 
-      
-      <a class="meta" href="/tags/sdk">SDK</a>, 
+      <a class="meta" href="/tags/swift">SWIFT</a>, 
       
       <a class="meta" href="/tags/ios">IOS</a>
       
@@ -120,13 +120,11 @@
 <section id="menu-pane" class="row menu text-center">
   
   
-  <span><a class="menu-item" href="http://zubala.com/projects/electronic-parts/">&lt; prev | </a></span>
+  <span><a class="menu-item" href="http://zubala.com/projects/applause/">&lt; prev | </a></span>
   
   
   <span><a class="menu-item" href="/projects">projects</a></span>
   
-  
-  <span><a class="menu-item" href="http://zubala.com/projects/swifjection/"> | next &gt;</a></span>
   
   
   <h4 class="text-center"><a class="menu-item" href="http://zubala.com/">home</a></h4>

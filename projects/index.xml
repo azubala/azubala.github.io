@@ -6,8 +6,44 @@
     <description>Recent content in Projects on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2015 19:36:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 15:29:44 +0100</lastBuildDate>
     <atom:link href="http://zubala.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Swifjection</title>
+      <link>http://zubala.com/projects/swifjection/</link>
+      <pubDate>Wed, 01 Mar 2017 15:29:44 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/swifjection/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;[Swifjection(&lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;https://github.com/ApplauseOSS/Swifjection&lt;/a&gt;) &amp;ndash; lightweight and simplistic dependency injection framework written in Swift for Swift .&lt;/p&gt;
+
+&lt;p&gt;The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;We built &lt;strong&gt;Swifjection&lt;/strong&gt; for our use in the first place. These are the key points what was our motivation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No need to inherit from &lt;code&gt;NSObject&lt;/code&gt; in order to inject dependencies&lt;/li&gt;
+&lt;li&gt;To inject &lt;em&gt;pure&lt;/em&gt; &lt;code&gt;Swift&lt;/code&gt; types you just need to conform to simple &lt;code&gt;Injectable&lt;/code&gt; protocol&lt;/li&gt;
+&lt;li&gt;No action required to inject &lt;code&gt;NSObject&lt;/code&gt; sublcasses, or classes conforming to &lt;code&gt;Injectable&lt;/code&gt; protocol&lt;/li&gt;
+&lt;li&gt;Clear and simple binding system inspired by Objective-C framework &lt;a href=&#34;https://github.com/atomicobject/objection&#34;&gt;Objection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lightweight &amp;ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; AAC+ Player&lt;/br&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt; iOS Framework&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt; Co-Author, Developer
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Applause iOS SDK</title>

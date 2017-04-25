@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zubala.com/projects/swifjection/</loc>
+    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://zubala.com/faktura/</loc>
     <lastmod>2017-01-22T19:52:48+01:00</lastmod>
   </url>
@@ -58,7 +63,7 @@
   
   <url>
     <loc>http://zubala.com/</loc>
-    <lastmod>2017-01-22T19:52:48+01:00</lastmod>
+    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,7 +110,7 @@
   
   <url>
     <loc>http://zubala.com/tags/ios/</loc>
-    <lastmod>2015-09-01T19:36:49+01:00</lastmod>
+    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,6 +145,12 @@
   </url>
   
   <url>
+    <loc>http://zubala.com/tags/open-source/</loc>
+    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://zubala.com/tags/polidea/</loc>
     <lastmod>2010-01-01T15:56:13+01:00</lastmod>
     <priority>0</priority>
@@ -147,19 +158,25 @@
   
   <url>
     <loc>http://zubala.com/categories/project/</loc>
-    <lastmod>2015-09-01T19:36:49+01:00</lastmod>
+    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://zubala.com/projects/</loc>
-    <lastmod>2015-09-01T19:36:49+01:00</lastmod>
+    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://zubala.com/tags/sdk/</loc>
     <lastmod>2015-09-01T19:36:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zubala.com/tags/swift/</loc>
+    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
