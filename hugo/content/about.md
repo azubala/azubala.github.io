@@ -20,6 +20,12 @@ In 2013 I came back to Poland after year and a half in Berlin where I worked at 
 
 After return to Warsaw I've joined **Taptera Poland**, were I took part in some interesting enterprise projects for US clients.
 
-Currently I'm working at **Applause Inc.**, where I'm responsible for  iOS team. As a part time job I'm also a co-founder of **Mobile Academy** -- organization for mobile workshops. I'm also a consultant in **Sependa** -- mainly helping with their flag product called Crescendo.
+From 2014 until 2017 I was working at **Applause Inc.**, where I was responsible for iOS team. During that period I focused on defined workflows and processes that help to maintain and deliver products for iOS platform.
+
+In addition, throughout 2017 I was also a consultant in **Sependa** -- mainly helping with their flag product called Crescendo.
+
+Currently I'm working at **YND Consult GmbH**, where I'm a lead of the iOS team that builds an in-house product -- soon to be released to public. 
+
+As a part time job I'm also a co-founder of **Mobile Academy** -- organization for mobile workshops.
 
 In my spare time I do a little bit of swimming and cycling ([follow me on Strava](https://www.strava.com/athletes/9515088)) 
