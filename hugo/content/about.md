@@ -20,7 +20,7 @@ In 2013 I came back to Poland after year and a half in Berlin where I worked at 
 
 After return to Warsaw I've joined **Taptera Poland**, were I took part in some interesting enterprise projects for US clients.
 
-From 2014 until 2017 I was working at **Applause Inc.**, where I was responsible for iOS team. During that period I focused on defined workflows and processes that help to maintain and deliver products for iOS platform.
+From 2014 until 2017 I was working at **Applause Inc.**, where I was responsible for iOS team. During that period I focused on defining workflows and processes that help to maintain and deliver products for iOS platform.
 
 In addition, throughout 2017 I was also a consultant in **Sependa** -- mainly helping with their flag product called Crescendo.
 
