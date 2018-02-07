@@ -18,11 +18,11 @@
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for bufferning the stream and playback control. Library packaged in the way the systems frameworks are.&lt;/p&gt;
+&lt;p&gt;Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for buffering the stream and playback control. Library packaged in the way the systems frameworks are.&lt;/p&gt;
 
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
 
-&lt;p&gt;Inegrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic &lt;code&gt;CoreAudio&lt;/code&gt; buffers.&lt;/p&gt;
+&lt;p&gt;Integrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic &lt;code&gt;CoreAudio&lt;/code&gt; buffers.&lt;/p&gt;
 
 &lt;hr /&gt;
 

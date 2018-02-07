@@ -13,7 +13,7 @@ draft = false
 
 ### Overview
 
-iPad’s edition of the polish weekly magazine, based on the [Pixblish]() framework. 
+iPad’s edition of the polish weekly magazine, based on the Pixblish framework. 
 Newsstand app for the fully native app. 
 
 At the time, the app was the first polish app which used auto – renewable subscription for the subscription.
