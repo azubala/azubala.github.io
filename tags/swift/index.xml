@@ -22,24 +22,31 @@
 
 &lt;p&gt;Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.&lt;/p&gt;
 
-&lt;p&gt;Enter “Szop Precz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.&lt;/p&gt;
+&lt;p&gt;Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.&lt;/p&gt;
 
-&lt;p&gt;Features:
-- check shops availability for current day
-- schedule notification for upcoming shops close down
-- browse through the close down schedule for 2018&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
 
-&lt;p&gt;Coming Soon:
-- watchOS extension &amp;ndash; check shops availability right on your wrist!
-- Today extension &amp;ndash; little widget in your notification center to check shops availability even smoother!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;check shops availability for current day&lt;/li&gt;
+&lt;li&gt;schedule notification for upcoming shops close down&lt;/li&gt;
+&lt;li&gt;browse through the close down schedule for 2018
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/pl/app/szopprecz/id1348257936?ls=1&amp;amp;mt=8&#34;&gt;Available in AppStore&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coming Soon:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;watchOS extension &amp;ndash; check shops availability right on your wrist!&lt;/li&gt;
+&lt;li&gt;Today extension &amp;ndash; little widget in your notification center to check shops availability even smoother!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/szopprecz/id1348257936?ls=1&amp;amp;mt=8&#34;&gt;Available in AppStore&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
 
 &lt;p&gt;Apart from solving the problem of closed shops in Poland the main technical goal was to create an application in Swift 4 using VIPER.&lt;/p&gt;
 
-&lt;p&gt;In addition, applicatin uses &lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;Swifjection&lt;/a&gt; &amp;ndash; lightweight and simplistic dependency injection framework written in Swift.&lt;/p&gt;
+&lt;p&gt;In addition, application uses &lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;Swifjection&lt;/a&gt; &amp;ndash; lightweight and simplistic dependency injection framework written in Swift.&lt;/p&gt;
 
 &lt;hr /&gt;
 
