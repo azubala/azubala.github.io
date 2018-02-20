@@ -6,8 +6,50 @@
     <description>Recent content on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Mar 2017 15:29:44 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate>
     <atom:link href="http://zubala.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SzopPrecz</title>
+      <link>http://zubala.com/projects/szopprecz/</link>
+      <pubDate>Tue, 20 Feb 2018 15:29:44 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/szopprecz/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;“SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.&lt;/p&gt;
+
+&lt;p&gt;Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.&lt;/p&gt;
+
+&lt;p&gt;Enter “Szop Precz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.&lt;/p&gt;
+
+&lt;p&gt;Features:
+- check shops availability for current day
+- schedule notification for upcoming shops close down
+- browse through the close down schedule for 2018&lt;/p&gt;
+
+&lt;p&gt;Coming Soon:
+- watchOS extension &amp;ndash; check shops availability right on your wrist!
+- Today extension &amp;ndash; little widget in your notification center to check shops availability even smoother!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/pl/app/szopprecz/id1348257936?ls=1&amp;amp;mt=8&#34;&gt;Available in AppStore&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;Apart from solving the problem of closed shops in Poland the main technical goal was to create an application in Swift 4 using VIPER.&lt;/p&gt;
+
+&lt;p&gt;In addition, applicatin uses &lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;Swifjection&lt;/a&gt; &amp;ndash; lightweight and simplistic dependency injection framework written in Swift.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt; iOS&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt; Founder, Developer, Designer
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Swifjection</title>
