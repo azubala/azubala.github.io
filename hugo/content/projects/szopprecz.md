@@ -38,6 +38,12 @@ Apart from solving the problem of closed shops in Poland the main technical goal
 
 In addition, application uses [Swifjection](https://github.com/ApplauseOSS/Swifjection) -- lightweight and simplistic dependency injection framework written in Swift.
 
+### Media Coverage
+
+- [AntyRadio](https://www.antyradio.pl/Technologia/Mobile/SzopPrecz-ostrzega-przed-niedzielami-bez-handlu-20555)
+- [ESKARock](http://www.eskarock.pl/eska_rock_news/szopprecz_ta_aplikacja_przypomni_o_niedzielach_bez_handlu/150413)
+
+
 ---
 <sup>
 **Platform:** iOS</br>
