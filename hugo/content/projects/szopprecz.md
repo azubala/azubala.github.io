@@ -42,6 +42,7 @@ In addition, application uses [Swifjection](https://github.com/ApplauseOSS/Swifj
 
 - [AntyRadio](https://www.antyradio.pl/Technologia/Mobile/SzopPrecz-ostrzega-przed-niedzielami-bez-handlu-20555)
 - [ESKARock](http://www.eskarock.pl/eska_rock_news/szopprecz_ta_aplikacja_przypomni_o_niedzielach_bez_handlu/150413)
+- [ThinkApple.pl](http://thinkapple.pl/2018/02/22/aplikacja-iphone-ktore-niedziele-wolne-2018/)
 
 
 ---
