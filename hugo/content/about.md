@@ -26,7 +26,7 @@ In addition, throughout 2017 I was also a consultant in **Sependa** -- mainly he
 
 Between July 2017 and February 2018 I was working at **YND Consult GmbH**, where I was a lead of the iOS team that builds an in-house product -- soon to be released to public.
 
-Starting from March 2018 I've joined Paris based startup [The Fabulous](https://thefabulous.co) -- where we develop a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
+Starting from March 2018 I've joined Paris based startup [**The Fabulous**](https://thefabulous.co) -- where we develop a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
 
 As a part time job I'm also a co-founder of **Mobile Academy** -- organization for mobile workshops.
 
