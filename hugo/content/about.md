@@ -12,7 +12,7 @@ showcomments = false
 
 I'm a software developer from Warsaw, Poland. I have graduated from [Warsaw University of Technology at the Faculty of Electronics and Information Technology](http://www.elka.pw.edu.pl/eng). I have solid background in digital signal processing and advanced video coding.
 
-Software was my hobby from an early age, my first code was on Amstrad in `QBASIC`. I'm passionate about Apple products and my favourite programming languages are: `Swift`, `Objective-C`, `C` and `Python`.
+Software was my hobby from an early age, my first code was on Amstrad in `QBASIC`. I'm passionate about Apple products and my favorite programming languages are: `Swift`, `Objective-C`, `C` and `Python`.
 
 Since 2010 I professionally develop iOS applications, my first commercial project was Polityka - the polish weekly magazine on iPad.
 
@@ -24,7 +24,9 @@ From 2014 until 2017 I was working at **Applause Inc.**, where I was responsible
 
 In addition, throughout 2017 I was also a consultant in **Sependa** -- mainly helping with their flag product called Crescendo.
 
-Currently I'm working at **YND Consult GmbH**, where I'm a lead of the iOS team that builds an in-house product -- soon to be released to public. 
+Between July 2017 and February 2018 I was working at **YND Consult GmbH**, where I was a lead of the iOS team that builds an in-house product -- soon to be released to public.
+
+Starting from March 2018 I've joined Paris based startup [The Fabulous](https://thefabulous.co) -- where we develop a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
 
 As a part time job I'm also a co-founder of **Mobile Academy** -- organization for mobile workshops.
 
