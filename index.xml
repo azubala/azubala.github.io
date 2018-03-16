@@ -6,8 +6,38 @@
     <description>Recent content on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate>
     <atom:link href="http://zubala.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OCMockitoSwift</title>
+      <link>http://zubala.com/projects/ocmockitoswift/</link>
+      <pubDate>Fri, 16 Mar 2018 13:00:00 +0100</pubDate>
+      
+      <guid>http://zubala.com/projects/ocmockitoswift/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/azubala/OCMockitoSwift&#34;&gt;OCMockitoSwift&lt;/a&gt; is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for &lt;code&gt;NSObject&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
+
+&lt;p&gt;The adapter comes with two files:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;OCMockitoSwiftAdapter.{h,m}&lt;/code&gt; &amp;ndash; Objective-C code to provide Swift friendly interface that allows mocking, veryfing and stubbing&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;OCMockito.swift&lt;/code&gt; &amp;ndash; set of global functions for Swift, e.g. &lt;code&gt;mock()&lt;/code&gt; or &lt;code&gt;verify()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;
+&lt;strong&gt;Platform:&lt;/strong&gt; iOS Framework&lt;/br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt; Co-Author, Developer
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SzopPrecz</title>

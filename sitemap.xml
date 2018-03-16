@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zubala.com/projects/ocmockitoswift/</loc>
+    <lastmod>2018-03-16T13:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://zubala.com/projects/szopprecz/</loc>
     <lastmod>2018-02-20T15:29:44+01:00</lastmod>
   </url>
@@ -68,7 +73,7 @@
   
   <url>
     <loc>http://zubala.com/</loc>
-    <lastmod>2018-02-20T15:29:44+01:00</lastmod>
+    <lastmod>2018-03-16T13:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +120,7 @@
   
   <url>
     <loc>http://zubala.com/tags/ios/</loc>
-    <lastmod>2018-02-20T15:29:44+01:00</lastmod>
+    <lastmod>2018-03-16T13:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,7 +156,7 @@
   
   <url>
     <loc>http://zubala.com/tags/open-source/</loc>
-    <lastmod>2017-03-01T15:29:44+01:00</lastmod>
+    <lastmod>2018-03-16T13:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,13 +168,13 @@
   
   <url>
     <loc>http://zubala.com/categories/project/</loc>
-    <lastmod>2018-02-20T15:29:44+01:00</lastmod>
+    <lastmod>2018-03-16T13:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://zubala.com/projects/</loc>
-    <lastmod>2018-02-20T15:29:44+01:00</lastmod>
+    <lastmod>2018-03-16T13:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,7 +186,7 @@
   
   <url>
     <loc>http://zubala.com/tags/swift/</loc>
-    <lastmod>2018-02-20T15:29:44+01:00</lastmod>
+    <lastmod>2018-03-16T13:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
