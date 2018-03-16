@@ -18,7 +18,7 @@
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/azubala/OCMockitoSwift&#34;&gt;OCMockitoSwift&lt;/a&gt; is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for &lt;code&gt;NSObject&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/azubala/OCMockitoSwift&#34;&gt;&lt;strong&gt;OCMockitoSwift&lt;/strong&gt;&lt;/a&gt; is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for &lt;code&gt;NSObject&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
 

@@ -13,7 +13,7 @@ showcomments = false
 
 ### Overview
 
-[OCMockitoSwift](https://github.com/azubala/OCMockitoSwift) is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for `NSObject`.
+[**OCMockitoSwift**](https://github.com/azubala/OCMockitoSwift) is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for `NSObject`.
 
 ### Technical details
 
