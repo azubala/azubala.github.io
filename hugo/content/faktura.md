@@ -12,9 +12,9 @@ tags = ["faktura", "vat"]
 +++
 
 azoobie Aleksander Zubala</br>
-al. Komisji Edukacji Narodowej 20 lok. 78 </br>
-02-797 Warszawa</br></br>
-NIP: **951 215 44 84** </br>
+ul. Melchiora Wańkowicza 4 m. 30 </br>
+02-796 Warszawa</br></br>
+NIP: **PL 951 215 44 84** </br>
 REGON: **147360180**</br>
 
 
