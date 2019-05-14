@@ -2,41 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polidea on Aleksander Zubala</title>
-    <link>http://zubala.com/tags/polidea/index.xml</link>
+    <link>https://zubala.com/tags/polidea/</link>
     <description>Recent content in Polidea on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="http://zubala.com/tags/polidea/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2010 15:56:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://zubala.com/tags/polidea/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Polityka on iPad</title>
-      <link>http://zubala.com/projects/polityka/</link>
+      <link>https://zubala.com/projects/polityka/</link>
       <pubDate>Fri, 01 Jan 2010 15:56:13 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/polityka/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;iPad’s edition of the polish weekly magazine, based on the Pixblish framework.
-Newsstand app for the fully native app.&lt;/p&gt;
-
-&lt;p&gt;At the time, the app was the first polish app which used auto – renewable subscription for the subscription.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on &lt;code&gt;XML&lt;/code&gt; description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.&lt;/p&gt;
-
-&lt;p&gt;Integration of Apple&amp;rsquo;s framework for Newsstand and In-App Purchase. The main challenge was to test auto-renewable subscriptions.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Polityka&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Developer, Support for the Project Management
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/polityka/</guid>
+      <description>Overview iPad’s edition of the polish weekly magazine, based on the Pixblish framework. Newsstand app for the fully native app.
+At the time, the app was the first polish app which used auto – renewable subscription for the subscription.
+Technical details This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on XML description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.</description>
     </item>
     
   </channel>

@@ -1,402 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ios on Aleksander Zubala</title>
-    <link>http://zubala.com/tags/ios/index.xml</link>
-    <description>Recent content in Ios on Aleksander Zubala</description>
+    <title>iOS on Aleksander Zubala</title>
+    <link>https://zubala.com/tags/ios/</link>
+    <description>Recent content in iOS on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="http://zubala.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://zubala.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>OCMockitoSwift</title>
-      <link>http://zubala.com/projects/ocmockitoswift/</link>
+      <link>https://zubala.com/projects/ocmockitoswift/</link>
       <pubDate>Fri, 16 Mar 2018 13:00:00 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/ocmockitoswift/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/azubala/OCMockitoSwift&#34;&gt;&lt;strong&gt;OCMockitoSwift&lt;/strong&gt;&lt;/a&gt; is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for &lt;code&gt;NSObject&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;The adapter comes with two files:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;OCMockitoSwiftAdapter.{h,m}&lt;/code&gt; &amp;ndash; Objective-C code to provide Swift friendly interface that allows mocking, veryfing and stubbing&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;OCMockito.swift&lt;/code&gt; &amp;ndash; set of global functions for Swift, e.g. &lt;code&gt;mock()&lt;/code&gt; or &lt;code&gt;verify()&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt; iOS Framework&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt; Co-Author, Developer
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/ocmockitoswift/</guid>
+      <description>Overview OCMockitoSwift is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for NSObject.
+Technical details The adapter comes with two files:
+ OCMockitoSwiftAdapter.{h,m} &amp;ndash; Objective-C code to provide Swift friendly interface that allows mocking, veryfing and stubbing OCMockito.swift &amp;ndash; set of global functions for Swift, e.g. mock() or verify()   Platform: iOS Framework Role: Co-Author, Developer</description>
     </item>
     
     <item>
       <title>SzopPrecz</title>
-      <link>http://zubala.com/projects/szopprecz/</link>
+      <link>https://zubala.com/projects/szopprecz/</link>
       <pubDate>Tue, 20 Feb 2018 15:29:44 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/szopprecz/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;“SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.&lt;/p&gt;
-
-&lt;p&gt;Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.&lt;/p&gt;
-
-&lt;p&gt;Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.&lt;/p&gt;
-
-&lt;p&gt;Features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;check shops availability for current day&lt;/li&gt;
-&lt;li&gt;schedule notification for upcoming shops close down&lt;/li&gt;
-&lt;li&gt;browse through the close down schedule for 2018
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Coming Soon:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;watchOS extension &amp;ndash; check shops availability right on your wrist!&lt;/li&gt;
-&lt;li&gt;Today extension &amp;ndash; little widget in your notification center to check shops availability even smoother!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/szopprecz/id1348257936?ls=1&amp;amp;mt=8&#34;&gt;Available in AppStore&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Apart from solving the problem of closed shops in Poland the main technical goal was to create an application in Swift 4 using VIPER.&lt;/p&gt;
-
-&lt;p&gt;In addition, application uses &lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;Swifjection&lt;/a&gt; &amp;ndash; lightweight and simplistic dependency injection framework written in Swift.&lt;/p&gt;
-
-&lt;h3 id=&#34;media-coverage&#34;&gt;Media Coverage&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.antyradio.pl/Technologia/Mobile/SzopPrecz-ostrzega-przed-niedzielami-bez-handlu-20555&#34;&gt;AntyRadio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eskarock.pl/eska_rock_news/szopprecz_ta_aplikacja_przypomni_o_niedzielach_bez_handlu/150413&#34;&gt;ESKARock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://thinkapple.pl/2018/02/22/aplikacja-iphone-ktore-niedziele-wolne-2018/&#34;&gt;ThinkApple.pl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://innpoland.pl/141801,zakaz-handlu-w-niedziele-aplikacja-szop-precz-przypomni-o-zrobiniu-zakupow&#34;&gt;INN Poland&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.spidersweb.pl/rozrywka/2018/04/08/zakaz-handlu-w-niedziele-aplikacje/&#34;&gt;Spider&amp;rsquo;s Web&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt; iOS&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt; Founder, Developer, Designer
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/szopprecz/</guid>
+      <description>Overview “SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.
+Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.
+Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.
+Features:
+ check shops availability for current day schedule notification for upcoming shops close down browse through the close down schedule for 2018   Coming Soon:</description>
     </item>
     
     <item>
       <title>Swifjection</title>
-      <link>http://zubala.com/projects/swifjection/</link>
+      <link>https://zubala.com/projects/swifjection/</link>
       <pubDate>Wed, 01 Mar 2017 15:29:44 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/swifjection/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;Swifjection&lt;/a&gt; &amp;ndash; lightweight and simplistic dependency injection framework written in Swift for Swift .&lt;/p&gt;
-
-&lt;p&gt;The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;We built &lt;strong&gt;Swifjection&lt;/strong&gt; for our use in the first place. These are the key points what was our motivation:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;No need to inherit from &lt;code&gt;NSObject&lt;/code&gt; in order to inject dependencies&lt;/li&gt;
-&lt;li&gt;To inject &lt;em&gt;pure&lt;/em&gt; &lt;code&gt;Swift&lt;/code&gt; types you just need to conform to simple &lt;code&gt;Injectable&lt;/code&gt; protocol&lt;/li&gt;
-&lt;li&gt;No action required to inject &lt;code&gt;NSObject&lt;/code&gt; sublcasses, or classes conforming to &lt;code&gt;Injectable&lt;/code&gt; protocol&lt;/li&gt;
-&lt;li&gt;Clear and simple binding system inspired by Objective-C framework &lt;a href=&#34;https://github.com/atomicobject/objection&#34;&gt;Objection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lightweight &amp;ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt; iOS Framework&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt; Co-Author, Developer
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/swifjection/</guid>
+      <description>Overview Swifjection &amp;ndash; lightweight and simplistic dependency injection framework written in Swift for Swift .
+The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.
+Technical details We built Swifjection for our use in the first place. These are the key points what was our motivation:
+ No need to inherit from NSObject in order to inject dependencies To inject pure Swift types you just need to conform to simple Injectable protocol No action required to inject NSObject sublcasses, or classes conforming to Injectable protocol Clear and simple binding system inspired by Objective-C framework Objection Lightweight &amp;ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible   Platform: iOS Framework Role: Co-Author, Developer</description>
     </item>
     
     <item>
       <title>Applause iOS SDK</title>
-      <link>http://zubala.com/projects/applause/</link>
+      <link>https://zubala.com/projects/applause/</link>
       <pubDate>Tue, 01 Sep 2015 19:36:49 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/applause/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;Applause iOS SDK is a framework for &lt;a href=&#34;https://www.applause.com/mobile-beta-management/&#34;&gt;Mobie Beta Management service&lt;/a&gt;. It&amp;rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;The core code base was built in early 2010 so the most crucial task is to keep code clean and robust. We use TDD aproach and focus on test coverage, in addition we use heavily DI framework called &lt;a href=&#34;https://github.com/atomicobject/objection&#34;&gt;Objection&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Framework has three channels of distributions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;manual integration &amp;ndash; using &lt;code&gt;.framework&lt;/code&gt; package (before it was official supported in Xcode we had to built it from static library and package accordingly)&lt;/li&gt;
-&lt;li&gt;Cocoapods integration&lt;/li&gt;
-&lt;li&gt;auto instrumentation &amp;ndash; it&amp;rsquo;s an Applause inveted &lt;em&gt;magic&lt;/em&gt; which allows us to integrate our library to already built apps!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Applause Inc.&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iOS Framework&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Team Leader
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/applause/</guid>
+      <description>Overview Applause iOS SDK is a framework for Mobie Beta Management service. It&amp;rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.</description>
     </item>
     
     <item>
       <title>Electronic Parts Company</title>
-      <link>http://zubala.com/projects/electronic-parts/</link>
+      <link>https://zubala.com/projects/electronic-parts/</link>
       <pubDate>Fri, 01 Aug 2014 15:50:30 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/electronic-parts/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.&lt;/p&gt;
-
-&lt;p&gt;Application was integrated with Salesforce, this way when sales rep created diagram, he could directly from the app create leads and opportunities on Salesforce platform.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;I was responsible for the component for designing and rendering diagrams on the iPad. Solution was based on the Apple&amp;rsquo;s &lt;code&gt;UICollectionView&lt;/code&gt; and custom layout. The most challenging part was to optimize performance of the diagram. It could contain multiple items connected to each other.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Electronic Parts Company&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Team member at Taptera Inc.
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/electronic-parts/</guid>
+      <description>Overview An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.
+Application was integrated with Salesforce, this way when sales rep created diagram, he could directly from the app create leads and opportunities on Salesforce platform.
+Technical details I was responsible for the component for designing and rendering diagrams on the iPad.</description>
     </item>
     
     <item>
       <title>App for Insurance Company</title>
-      <link>http://zubala.com/projects/insurance/</link>
+      <link>https://zubala.com/projects/insurance/</link>
       <pubDate>Mon, 01 Jul 2013 15:52:28 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/insurance/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;Mobile application that allows user to file an insurance claim and track its status.&lt;/p&gt;
-
-&lt;p&gt;Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Application communicated with the backend service with &lt;strong&gt;SOAP&lt;/strong&gt; technology. Forms were based on the custom built framework based on the &lt;code&gt;UITableView&lt;/code&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Polish Insurance Company&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iOS Universal Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Team member
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/insurance/</guid>
+      <description>Overview Mobile application that allows user to file an insurance claim and track its status.
+Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.
+Technical details Application communicated with the backend service with SOAP technology. Forms were based on the custom built framework based on the UITableView.
+ Client: Polish Insurance Company Platform: iOS Universal Application Role: Team member</description>
     </item>
     
     <item>
       <title>Mobile Academy</title>
-      <link>http://zubala.com/projects/mobile-academy/</link>
+      <link>https://zubala.com/projects/mobile-academy/</link>
       <pubDate>Wed, 01 May 2013 15:54:36 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/mobile-academy/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;Co-founder of &lt;a href=&#34;http://mobile-academy.io&#34;&gt;Mobile Academy&lt;/a&gt; organistation which orgnise workshops for the iOS community around Poland and Europe.&lt;/p&gt;
-
-&lt;p&gt;So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;We&amp;rsquo;ve conducted the following workshops:
-- Introduction to TDD on iOS
-- Workshop about &lt;code&gt;UICollectionView&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;And we are constantly working on new ones.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Mobile Academy&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iOS&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Tutor
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/mobile-academy/</guid>
+      <description>Overview Co-founder of Mobile Academy organistation which orgnise workshops for the iOS community around Poland and Europe.
+So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.
+Technical details We&amp;rsquo;ve conducted the following workshops: - Introduction to TDD on iOS - Workshop about UICollectionView
+And we are constantly working on new ones.
+ Client: Mobile Academy Platform: iOS Role: Tutor</description>
     </item>
     
     <item>
       <title>Bild.de iPad Application</title>
-      <link>http://zubala.com/projects/bild/</link>
+      <link>https://zubala.com/projects/bild/</link>
       <pubDate>Wed, 01 May 2013 15:29:44 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/bild/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.&lt;/p&gt;
-
-&lt;p&gt;Bild is all about the content; app is full of visuals, which has to be handle efficiently on all available iPad versions.&lt;/p&gt;
-
-&lt;p&gt;Available in AppStore on May 2013.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Custom &lt;code&gt;UICollectionView&lt;/code&gt;-like mechanisms to implement dynamic feeds display (support for iOS 5.x prevents from using original components), feed caching mechanisms, Single Sign On/One Click Buy&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/bild/</guid>
+      <description>Overview The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.
+Bild is all about the content; app is full of visuals, which has to be handle efficiently on all available iPad versions.
+Available in AppStore on May 2013.
+Technical details Custom UICollectionView-like mechanisms to implement dynamic feeds display (support for iOS 5.</description>
     </item>
     
     <item>
       <title>Szymanowski iPad Application</title>
-      <link>http://zubala.com/projects/szymanowski/</link>
+      <link>https://zubala.com/projects/szymanowski/</link>
       <pubDate>Thu, 01 Mar 2012 15:57:30 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/szymanowski/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.&lt;/p&gt;
-
-&lt;p&gt;Available on the AppStore.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Custom framework based on Apple&amp;rsquo;s &lt;code&gt;CoreText&lt;/code&gt; for rendering rich text with style and hyper links (before &lt;code&gt;TextKit&lt;/code&gt; was available).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Szymanowski &lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt; iPad Application &lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt; Developer, Design
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/szymanowski/</guid>
+      <description>Overview Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.
+Available on the AppStore.
+Technical details Custom framework based on Apple&amp;rsquo;s CoreText for rendering rich text with style and hyper links (before TextKit was available).
+ Client: Szymanowski  Platform: iPad Application  Role: Developer, Design</description>
     </item>
     
     <item>
       <title>Digital Concert Hall</title>
-      <link>http://zubala.com/projects/dch/</link>
+      <link>https://zubala.com/projects/dch/</link>
       <pubDate>Thu, 05 Jan 2012 15:47:26 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/dch/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;First version of the universal app for the world’s best philharmonic – Berliner Phil.&lt;/p&gt;
-
-&lt;p&gt;User can preview the past concerts and its pieces, but the most important feature is that one can experience the live concert straight from the app.&lt;/p&gt;
-
-&lt;p&gt;Clean design, presents the content without any distraction. Available on the AppStore.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Efficient horizontal scroll view based on &lt;code&gt;UIScrollView&lt;/code&gt;, to handle hundreds of archive concerts. HTTP Live streaming and integreation with Apple&amp;rsquo;s In-App purchase framework &lt;code&gt;StoreKit&lt;/code&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Berliner Phil&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for the Project Management
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/dch/</guid>
+      <description>Overview First version of the universal app for the world’s best philharmonic – Berliner Phil.
+User can preview the past concerts and its pieces, but the most important feature is that one can experience the live concert straight from the app.
+Clean design, presents the content without any distraction. Available on the AppStore.
+Technical details Efficient horizontal scroll view based on UIScrollView, to handle hundreds of archive concerts. HTTP Live streaming and integreation with Apple&amp;rsquo;s In-App purchase framework StoreKit.</description>
     </item>
     
     <item>
       <title>AAC&#43; Player</title>
-      <link>http://zubala.com/projects/aac_player/</link>
+      <link>https://zubala.com/projects/aac_player/</link>
       <pubDate>Tue, 01 Mar 2011 15:29:44 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/aac_player/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for buffering the stream and playback control. Library packaged in the way the systems frameworks are.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Integrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic &lt;code&gt;CoreAudio&lt;/code&gt; buffers.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; AAC+ Player&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt; iOS Framework&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt; Developer, Solution Architect
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/aac_player/</guid>
+      <description>Overview Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for buffering the stream and playback control. Library packaged in the way the systems frameworks are.
+Technical details Integrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic CoreAudio buffers.
+ Client: AAC+ Player Platform: iOS Framework Role: Developer, Solution Architect</description>
     </item>
     
     <item>
       <title>Polityka on iPad</title>
-      <link>http://zubala.com/projects/polityka/</link>
+      <link>https://zubala.com/projects/polityka/</link>
       <pubDate>Fri, 01 Jan 2010 15:56:13 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/polityka/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;iPad’s edition of the polish weekly magazine, based on the Pixblish framework.
-Newsstand app for the fully native app.&lt;/p&gt;
-
-&lt;p&gt;At the time, the app was the first polish app which used auto – renewable subscription for the subscription.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on &lt;code&gt;XML&lt;/code&gt; description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.&lt;/p&gt;
-
-&lt;p&gt;Integration of Apple&amp;rsquo;s framework for Newsstand and In-App Purchase. The main challenge was to test auto-renewable subscriptions.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Polityka&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Developer, Support for the Project Management
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/polityka/</guid>
+      <description>Overview iPad’s edition of the polish weekly magazine, based on the Pixblish framework. Newsstand app for the fully native app.
+At the time, the app was the first polish app which used auto – renewable subscription for the subscription.
+Technical details This was the first was built with Pixblish framework developed at Polidea. We built a solution to render rich text with media on iPad based on XML description. The weekly issue was composed on our back-end which generated packaged, then rendered on iOS Device.</description>
     </item>
     
   </channel>

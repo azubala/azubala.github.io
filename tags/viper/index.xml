@@ -1,70 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Viper on Aleksander Zubala</title>
-    <link>http://zubala.com/tags/viper/index.xml</link>
-    <description>Recent content in Viper on Aleksander Zubala</description>
+    <title>VIPER on Aleksander Zubala</title>
+    <link>https://zubala.com/tags/viper/</link>
+    <description>Recent content in VIPER on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="http://zubala.com/tags/viper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate>
+    
+	<atom:link href="https://zubala.com/tags/viper/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>SzopPrecz</title>
-      <link>http://zubala.com/projects/szopprecz/</link>
+      <link>https://zubala.com/projects/szopprecz/</link>
       <pubDate>Tue, 20 Feb 2018 15:29:44 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/szopprecz/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;“SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.&lt;/p&gt;
-
-&lt;p&gt;Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.&lt;/p&gt;
-
-&lt;p&gt;Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.&lt;/p&gt;
-
-&lt;p&gt;Features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;check shops availability for current day&lt;/li&gt;
-&lt;li&gt;schedule notification for upcoming shops close down&lt;/li&gt;
-&lt;li&gt;browse through the close down schedule for 2018
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Coming Soon:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;watchOS extension &amp;ndash; check shops availability right on your wrist!&lt;/li&gt;
-&lt;li&gt;Today extension &amp;ndash; little widget in your notification center to check shops availability even smoother!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/szopprecz/id1348257936?ls=1&amp;amp;mt=8&#34;&gt;Available in AppStore&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Apart from solving the problem of closed shops in Poland the main technical goal was to create an application in Swift 4 using VIPER.&lt;/p&gt;
-
-&lt;p&gt;In addition, application uses &lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;Swifjection&lt;/a&gt; &amp;ndash; lightweight and simplistic dependency injection framework written in Swift.&lt;/p&gt;
-
-&lt;h3 id=&#34;media-coverage&#34;&gt;Media Coverage&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.antyradio.pl/Technologia/Mobile/SzopPrecz-ostrzega-przed-niedzielami-bez-handlu-20555&#34;&gt;AntyRadio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eskarock.pl/eska_rock_news/szopprecz_ta_aplikacja_przypomni_o_niedzielach_bez_handlu/150413&#34;&gt;ESKARock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://thinkapple.pl/2018/02/22/aplikacja-iphone-ktore-niedziele-wolne-2018/&#34;&gt;ThinkApple.pl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://innpoland.pl/141801,zakaz-handlu-w-niedziele-aplikacja-szop-precz-przypomni-o-zrobiniu-zakupow&#34;&gt;INN Poland&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.spidersweb.pl/rozrywka/2018/04/08/zakaz-handlu-w-niedziele-aplikacje/&#34;&gt;Spider&amp;rsquo;s Web&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt; iOS&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt; Founder, Developer, Designer
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/szopprecz/</guid>
+      <description>Overview “SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.
+Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.
+Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.
+Features:
+ check shops availability for current day schedule notification for upcoming shops close down browse through the close down schedule for 2018   Coming Soon:</description>
     </item>
     
   </channel>

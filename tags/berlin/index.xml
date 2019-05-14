@@ -2,70 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berlin on Aleksander Zubala</title>
-    <link>http://zubala.com/tags/berlin/index.xml</link>
+    <link>https://zubala.com/tags/berlin/</link>
     <description>Recent content in Berlin on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="http://zubala.com/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 May 2013 15:29:44 +0100</lastBuildDate>
+    
+	<atom:link href="https://zubala.com/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Bild.de iPad Application</title>
-      <link>http://zubala.com/projects/bild/</link>
+      <link>https://zubala.com/projects/bild/</link>
       <pubDate>Wed, 01 May 2013 15:29:44 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/bild/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.&lt;/p&gt;
-
-&lt;p&gt;Bild is all about the content; app is full of visuals, which has to be handle efficiently on all available iPad versions.&lt;/p&gt;
-
-&lt;p&gt;Available in AppStore on May 2013.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Custom &lt;code&gt;UICollectionView&lt;/code&gt;-like mechanisms to implement dynamic feeds display (support for iOS 5.x prevents from using original components), feed caching mechanisms, Single Sign On/One Click Buy&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/bild/</guid>
+      <description>Overview The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.
+Bild is all about the content; app is full of visuals, which has to be handle efficiently on all available iPad versions.
+Available in AppStore on May 2013.
+Technical details Custom UICollectionView-like mechanisms to implement dynamic feeds display (support for iOS 5.</description>
     </item>
     
     <item>
       <title>Digital Concert Hall</title>
-      <link>http://zubala.com/projects/dch/</link>
+      <link>https://zubala.com/projects/dch/</link>
       <pubDate>Thu, 05 Jan 2012 15:47:26 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/dch/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;First version of the universal app for the world’s best philharmonic – Berliner Phil.&lt;/p&gt;
-
-&lt;p&gt;User can preview the past concerts and its pieces, but the most important feature is that one can experience the live concert straight from the app.&lt;/p&gt;
-
-&lt;p&gt;Clean design, presents the content without any distraction. Available on the AppStore.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Efficient horizontal scroll view based on &lt;code&gt;UIScrollView&lt;/code&gt;, to handle hundreds of archive concerts. HTTP Live streaming and integreation with Apple&amp;rsquo;s In-App purchase framework &lt;code&gt;StoreKit&lt;/code&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Berliner Phil&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for the Project Management
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/dch/</guid>
+      <description>Overview First version of the universal app for the world’s best philharmonic – Berliner Phil.
+User can preview the past concerts and its pieces, but the most important feature is that one can experience the live concert straight from the app.
+Clean design, presents the content without any distraction. Available on the AppStore.
+Technical details Efficient horizontal scroll view based on UIScrollView, to handle hundreds of archive concerts. HTTP Live streaming and integreation with Apple&amp;rsquo;s In-App purchase framework StoreKit.</description>
     </item>
     
   </channel>

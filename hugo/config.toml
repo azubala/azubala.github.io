@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://zubala.com/"
+baseurl = "https://zubala.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"

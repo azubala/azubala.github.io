@@ -2,42 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops on Aleksander Zubala</title>
-    <link>http://zubala.com/tags/workshops/index.xml</link>
+    <link>https://zubala.com/tags/workshops/</link>
     <description>Recent content in Workshops on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="http://zubala.com/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 May 2013 15:54:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://zubala.com/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mobile Academy</title>
-      <link>http://zubala.com/projects/mobile-academy/</link>
+      <link>https://zubala.com/projects/mobile-academy/</link>
       <pubDate>Wed, 01 May 2013 15:54:36 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/mobile-academy/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;Co-founder of &lt;a href=&#34;http://mobile-academy.io&#34;&gt;Mobile Academy&lt;/a&gt; organistation which orgnise workshops for the iOS community around Poland and Europe.&lt;/p&gt;
-
-&lt;p&gt;So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;We&amp;rsquo;ve conducted the following workshops:
-- Introduction to TDD on iOS
-- Workshop about &lt;code&gt;UICollectionView&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;And we are constantly working on new ones.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Mobile Academy&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iOS&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Tutor
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/mobile-academy/</guid>
+      <description>Overview Co-founder of Mobile Academy organistation which orgnise workshops for the iOS community around Poland and Europe.
+So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.
+Technical details We&amp;rsquo;ve conducted the following workshops: - Introduction to TDD on iOS - Workshop about UICollectionView
+And we are constantly working on new ones.
+ Client: Mobile Academy Platform: iOS Role: Tutor</description>
     </item>
     
   </channel>

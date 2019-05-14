@@ -1,69 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uicollectionview on Aleksander Zubala</title>
-    <link>http://zubala.com/tags/uicollectionview/index.xml</link>
-    <description>Recent content in Uicollectionview on Aleksander Zubala</description>
+    <title>UICollectionView on Aleksander Zubala</title>
+    <link>https://zubala.com/tags/uicollectionview/</link>
+    <description>Recent content in UICollectionView on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="http://zubala.com/tags/uicollectionview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2014 15:50:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://zubala.com/tags/uicollectionview/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Electronic Parts Company</title>
-      <link>http://zubala.com/projects/electronic-parts/</link>
+      <link>https://zubala.com/projects/electronic-parts/</link>
       <pubDate>Fri, 01 Aug 2014 15:50:30 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/electronic-parts/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.&lt;/p&gt;
-
-&lt;p&gt;Application was integrated with Salesforce, this way when sales rep created diagram, he could directly from the app create leads and opportunities on Salesforce platform.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;I was responsible for the component for designing and rendering diagrams on the iPad. Solution was based on the Apple&amp;rsquo;s &lt;code&gt;UICollectionView&lt;/code&gt; and custom layout. The most challenging part was to optimize performance of the diagram. It could contain multiple items connected to each other.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Electronic Parts Company&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Team member at Taptera Inc.
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/electronic-parts/</guid>
+      <description>Overview An iPad application for sales representatives of the company which produces electronic parts. The key idea was to create diagram of future product of the customer and identify parts which the company could sell.
+Application was integrated with Salesforce, this way when sales rep created diagram, he could directly from the app create leads and opportunities on Salesforce platform.
+Technical details I was responsible for the component for designing and rendering diagrams on the iPad.</description>
     </item>
     
     <item>
       <title>Bild.de iPad Application</title>
-      <link>http://zubala.com/projects/bild/</link>
+      <link>https://zubala.com/projects/bild/</link>
       <pubDate>Wed, 01 May 2013 15:29:44 +0100</pubDate>
       
-      <guid>http://zubala.com/projects/bild/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.&lt;/p&gt;
-
-&lt;p&gt;Bild is all about the content; app is full of visuals, which has to be handle efficiently on all available iPad versions.&lt;/p&gt;
-
-&lt;p&gt;Available in AppStore on May 2013.&lt;/p&gt;
-
-&lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
-
-&lt;p&gt;Custom &lt;code&gt;UICollectionView&lt;/code&gt;-like mechanisms to implement dynamic feeds display (support for iOS 5.x prevents from using original components), feed caching mechanisms, Single Sign On/One Click Buy&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;
-&lt;strong&gt;Client:&lt;/strong&gt; Bild.de&lt;/br&gt;
-&lt;strong&gt;Platform:&lt;/strong&gt;   iPad Application&lt;/br&gt;
-&lt;strong&gt;Role:&lt;/strong&gt;       Technical Project Lead, Support for Project Management
-&lt;/sup&gt;&lt;/p&gt;
-</description>
+      <guid>https://zubala.com/projects/bild/</guid>
+      <description>Overview The second edition of the app for the Germany&amp;rsquo;s biggest newspaper. The concept of the app is based on the current web page - app meant to be fast, reliable and fun to use.
+Bild is all about the content; app is full of visuals, which has to be handle efficiently on all available iPad versions.
+Available in AppStore on May 2013.
+Technical details Custom UICollectionView-like mechanisms to implement dynamic feeds display (support for iOS 5.</description>
     </item>
     
   </channel>
