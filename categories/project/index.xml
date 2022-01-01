@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in project on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate><atom:link href="https://zubala.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCMockitoSwift</title>
       <link>https://zubala.com/projects/ocmockitoswift/</link>
@@ -19,7 +15,7 @@
       <guid>https://zubala.com/projects/ocmockitoswift/</guid>
       <description>Overview OCMockitoSwift is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for NSObject.
 Technical details The adapter comes with two files:
- OCMockitoSwiftAdapter.{h,m} &amp;ndash; Objective-C code to provide Swift friendly interface that allows mocking, veryfing and stubbing OCMockito.swift &amp;ndash; set of global functions for Swift, e.g. mock() or verify()   Platform: iOS Framework Role: Co-Author, Developer</description>
+ OCMockitoSwiftAdapter.{h,m} &amp;ndash; Objective-C code to provide Swift friendly interface that allows mocking, veryfing and stubbing OCMockito.swift &amp;ndash; set of global functions for Swift, e.g. mock() or verify()   </description>
     </item>
     
     <item>
@@ -32,7 +28,7 @@ Technical details The adapter comes with two files:
 Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.
 Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.
 Features:
- check shops availability for current day schedule notification for upcoming shops close down browse through the close down schedule for 2018   Coming Soon:</description>
+ check shops availability for current day schedule notification for upcoming shops close down browse through the close down schedule for 2018  Coming Soon:</description>
     </item>
     
     <item>
@@ -44,7 +40,7 @@ Features:
       <description>Overview Swifjection &amp;ndash; lightweight and simplistic dependency injection framework written in Swift for Swift .
 The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.
 Technical details We built Swifjection for our use in the first place. These are the key points what was our motivation:
- No need to inherit from NSObject in order to inject dependencies To inject pure Swift types you just need to conform to simple Injectable protocol No action required to inject NSObject sublcasses, or classes conforming to Injectable protocol Clear and simple binding system inspired by Objective-C framework Objection Lightweight &amp;ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible   Platform: iOS Framework Role: Co-Author, Developer</description>
+ No need to inherit from NSObject in order to inject dependencies To inject pure Swift types you just need to conform to simple Injectable protocol No action required to inject NSObject sublcasses, or classes conforming to Injectable protocol Clear and simple binding system inspired by Objective-C framework Objection Lightweight &amp;ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible   </description>
     </item>
     
     <item>
@@ -76,7 +72,7 @@ Technical details I was responsible for the component for designing and renderin
       <description>Overview Mobile application that allows user to file an insurance claim and track its status.
 Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.
 Technical details Application communicated with the backend service with SOAP technology. Forms were based on the custom built framework based on the UITableView.
- Client: Polish Insurance Company Platform: iOS Universal Application Role: Team member</description>
+ </description>
     </item>
     
     <item>
@@ -87,9 +83,9 @@ Technical details Application communicated with the backend service with SOAP te
       <guid>https://zubala.com/projects/mobile-academy/</guid>
       <description>Overview Co-founder of Mobile Academy organistation which orgnise workshops for the iOS community around Poland and Europe.
 So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.
-Technical details We&amp;rsquo;ve conducted the following workshops: - Introduction to TDD on iOS - Workshop about UICollectionView
-And we are constantly working on new ones.
- Client: Mobile Academy Platform: iOS Role: Tutor</description>
+Technical details We&amp;rsquo;ve conducted the following workshops:
+ Introduction to TDD on iOS Workshop about UICollectionView  And we are constantly working on new ones.
+ </description>
     </item>
     
     <item>
@@ -113,7 +109,7 @@ Technical details Custom UICollectionView-like mechanisms to implement dynamic f
       <description>Overview Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.
 Available on the AppStore.
 Technical details Custom framework based on Apple&amp;rsquo;s CoreText for rendering rich text with style and hyper links (before TextKit was available).
- Client: Szymanowski  Platform: iPad Application  Role: Developer, Design</description>
+ </description>
     </item>
     
     <item>
@@ -136,7 +132,7 @@ Technical details Efficient horizontal scroll view based on UIScrollView, to han
       <guid>https://zubala.com/projects/aac_player/</guid>
       <description>Overview Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for buffering the stream and playback control. Library packaged in the way the systems frameworks are.
 Technical details Integrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic CoreAudio buffers.
- Client: AAC+ Player Platform: iOS Framework Role: Developer, Solution Architect</description>
+ </description>
     </item>
     
     <item>

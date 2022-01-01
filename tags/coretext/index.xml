@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CoreText on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in CoreText on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Mar 2012 15:57:30 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/coretext/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 01 Mar 2012 15:57:30 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/coretext/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Szymanowski iPad Application</title>
       <link>https://zubala.com/projects/szymanowski/</link>
@@ -20,7 +16,7 @@
       <description>Overview Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.
 Available on the AppStore.
 Technical details Custom framework based on Apple&amp;rsquo;s CoreText for rendering rich text with style and hyper links (before TextKit was available).
- Client: Szymanowski  Platform: iPad Application  Role: Developer, Design</description>
+ </description>
     </item>
     
     <item>

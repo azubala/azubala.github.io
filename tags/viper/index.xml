@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VIPER on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in VIPER on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/viper/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/viper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SzopPrecz</title>
       <link>https://zubala.com/projects/szopprecz/</link>
@@ -21,7 +17,7 @@
 Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.
 Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.
 Features:
- check shops availability for current day schedule notification for upcoming shops close down browse through the close down schedule for 2018   Coming Soon:</description>
+ check shops availability for current day schedule notification for upcoming shops close down browse through the close down schedule for 2018  Coming Soon:</description>
     </item>
     
   </channel>

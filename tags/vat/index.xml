@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vat on Aleksander Zubala</title>
@@ -6,18 +6,14 @@
     <description>Recent content in vat on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Jan 2017 19:52:48 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/vat/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 22 Jan 2017 19:52:48 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/vat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dane do faktury</title>
       <link>https://zubala.com/faktura/</link>
       <pubDate>Sun, 22 Jan 2017 19:52:48 +0100</pubDate>
       
       <guid>https://zubala.com/faktura/</guid>
-      <description>azoobie Aleksander Zubala ul. Melchiora Wańkowicza 4 m. 30  02-796 Warszawa NIP: PL 951 215 44 84  REGON: 147360180</description>
+      <description>azoobie Aleksander Zubalaul. Melchiora Wańkowicza 4 m. 30 02-796 WarszawaNIP: PL 951 215 44 84 REGON: 147360180</description>
     </item>
     
   </channel>

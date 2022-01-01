@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iPhone on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in iPhone on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Jul 2013 15:52:28 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Jul 2013 15:52:28 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App for Insurance Company</title>
       <link>https://zubala.com/projects/insurance/</link>
@@ -20,7 +16,7 @@
       <description>Overview Mobile application that allows user to file an insurance claim and track its status.
 Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.
 Technical details Application communicated with the backend service with SOAP technology. Forms were based on the custom built framework based on the UITableView.
- Client: Polish Insurance Company Platform: iOS Universal Application Role: Team member</description>
+ </description>
     </item>
     
   </channel>

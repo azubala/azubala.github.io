@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iPad on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in iPad on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2014 15:50:30 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Aug 2014 15:50:30 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Electronic Parts Company</title>
       <link>https://zubala.com/projects/electronic-parts/</link>
@@ -31,7 +27,7 @@ Technical details I was responsible for the component for designing and renderin
       <description>Overview Mobile application that allows user to file an insurance claim and track its status.
 Claim reports were persistent and could be continued at any time. User could also evaluate his car and request contact with company&amp;rsquo;s agent.
 Technical details Application communicated with the backend service with SOAP technology. Forms were based on the custom built framework based on the UITableView.
- Client: Polish Insurance Company Platform: iOS Universal Application Role: Team member</description>
+ </description>
     </item>
     
     <item>
@@ -55,7 +51,7 @@ Technical details Custom UICollectionView-like mechanisms to implement dynamic f
       <description>Overview Showcase app about the famous polish composer. The app is full of the audio/video content and articles about the artist.
 Available on the AppStore.
 Technical details Custom framework based on Apple&amp;rsquo;s CoreText for rendering rich text with style and hyper links (before TextKit was available).
- Client: Szymanowski  Platform: iPad Application  Role: Developer, Design</description>
+ </description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Workshops on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 May 2013 15:54:36 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 01 May 2013 15:54:36 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobile Academy</title>
       <link>https://zubala.com/projects/mobile-academy/</link>
@@ -19,9 +15,9 @@
       <guid>https://zubala.com/projects/mobile-academy/</guid>
       <description>Overview Co-founder of Mobile Academy organistation which orgnise workshops for the iOS community around Poland and Europe.
 So far we&amp;rsquo;ve visted cities like: Warszawa, Kraków, Gdańsk, Łódz in Poland. We&amp;rsquo;ve also been in Berlin and Minsk.
-Technical details We&amp;rsquo;ve conducted the following workshops: - Introduction to TDD on iOS - Workshop about UICollectionView
-And we are constantly working on new ones.
- Client: Mobile Academy Platform: iOS Role: Tutor</description>
+Technical details We&amp;rsquo;ve conducted the following workshops:
+ Introduction to TDD on iOS Workshop about UICollectionView  And we are constantly working on new ones.
+ </description>
     </item>
     
   </channel>

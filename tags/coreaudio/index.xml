@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CoreAudio on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in CoreAudio on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Mar 2011 15:29:44 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/coreaudio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Mar 2011 15:29:44 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/coreaudio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AAC&#43; Player</title>
       <link>https://zubala.com/projects/aac_player/</link>
@@ -19,7 +15,7 @@
       <guid>https://zubala.com/projects/aac_player/</guid>
       <description>Overview Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for buffering the stream and playback control. Library packaged in the way the systems frameworks are.
 Technical details Integrated Custom AAC+ decoder written in C, which delivered raw encoded audio samples, the iOS library was responsible for feeding raw data into cyclic CoreAudio buffers.
- Client: AAC+ Player Platform: iOS Framework Role: Developer, Solution Architect</description>
+ </description>
     </item>
     
   </channel>

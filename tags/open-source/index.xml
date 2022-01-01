@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Aleksander Zubala</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Source on Aleksander Zubala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://zubala.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCMockitoSwift</title>
       <link>https://zubala.com/projects/ocmockitoswift/</link>
@@ -19,7 +15,7 @@
       <guid>https://zubala.com/projects/ocmockitoswift/</guid>
       <description>Overview OCMockitoSwift is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for NSObject.
 Technical details The adapter comes with two files:
- OCMockitoSwiftAdapter.{h,m} &amp;ndash; Objective-C code to provide Swift friendly interface that allows mocking, veryfing and stubbing OCMockito.swift &amp;ndash; set of global functions for Swift, e.g. mock() or verify()   Platform: iOS Framework Role: Co-Author, Developer</description>
+ OCMockitoSwiftAdapter.{h,m} &amp;ndash; Objective-C code to provide Swift friendly interface that allows mocking, veryfing and stubbing OCMockito.swift &amp;ndash; set of global functions for Swift, e.g. mock() or verify()   </description>
     </item>
     
     <item>
@@ -31,7 +27,7 @@ Technical details The adapter comes with two files:
       <description>Overview Swifjection &amp;ndash; lightweight and simplistic dependency injection framework written in Swift for Swift .
 The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.
 Technical details We built Swifjection for our use in the first place. These are the key points what was our motivation:
- No need to inherit from NSObject in order to inject dependencies To inject pure Swift types you just need to conform to simple Injectable protocol No action required to inject NSObject sublcasses, or classes conforming to Injectable protocol Clear and simple binding system inspired by Objective-C framework Objection Lightweight &amp;ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible   Platform: iOS Framework Role: Co-Author, Developer</description>
+ No need to inherit from NSObject in order to inject dependencies To inject pure Swift types you just need to conform to simple Injectable protocol No action required to inject NSObject sublcasses, or classes conforming to Injectable protocol Clear and simple binding system inspired by Objective-C framework Objection Lightweight &amp;ndash; we wanted to avoid unnecessary clutter and made the APIs as simple as possible   </description>
     </item>
     
   </channel>
