@@ -28,7 +28,7 @@ Between July 2017 and February 2018 I was working at **YND Consult GmbH**, where
 
 Starting from March 2018 until September 2022 I was part of a Paris based startup [**The Fabulous**](https://thefabulous.co) -- where we developed a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
 
-In October 2022 I joined Beekeeper as Principle Mobile Engineer where we build product for frontline workers for Swiss, German and US customers.
+In October 2022 I joined [Beekeeper](https://www.beekeeper.io) as **Principle Mobile Engineer** where we build product for front-line workers for Swiss, German and US customers.
 
 As a part time job I'm also a co-founder of **Mobile Academy** -- organization for mobile workshops.
 
