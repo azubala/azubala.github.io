@@ -45,7 +45,7 @@ email = "alek@zubala.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2023 Aleksander Zubala"
+copyright = "© 2024 Aleksander Zubala"
 poweredby = true
 hightlightjs = true
 
