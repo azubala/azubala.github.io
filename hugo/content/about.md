@@ -6,33 +6,37 @@ comments = false
 draft = false
 showpagemeta = true
 date = "2017-01-21T14:37:18+01:00"
-title = "About me"
+title = "About Me"
 showcomments = false
 +++
 
-I'm a software developer from Warsaw, Poland. I have graduated from [Warsaw University of Technology at the Faculty of Electronics and Information Technology](http://www.elka.pw.edu.pl/eng). I have solid background in digital signal processing and advanced video coding.
+I'm a software developer based in Warsaw, Poland. I graduated from the [Warsaw University of Technology, Faculty of Electronics and Information Technology](http://www.elka.pw.edu.pl/eng), with a strong foundation in digital signal processing and advanced video coding.
 
-Software was my hobby from an early age, my first code was on Amstrad in `QBASIC`. I'm passionate about Apple products and my favorite programming languages are: `Swift`, `Objective-C`, `C` and `Python`.
+I have been passionate about software development since an early age, starting with my first code written in `QBASIC` on an Amstrad computer. I am an enthusiast of Apple products, and my favorite programming languages are `Swift`, `Objective-C`, `C`, and `Python`.
 
-Since 2010 I professionally develop iOS applications, my first commercial project was Polityka - the polish weekly magazine on iPad.
+### Professional Journey
 
-In 2013 I came back to Poland after year and a half in Berlin where I worked at **Neofonie Mobile GmbH**. During that period I was a lead developer of the Bild on iPad and an app for the Berliner Philharmoniker.
+Since 2010, I have been professionally developing iOS applications. My first commercial project was **Polityka**, the Polish weekly magazine on iPad.
 
-After return to Warsaw I've joined **Taptera Poland**, were I took part in some interesting enterprise projects for US clients.
+In 2013, after spending a year and a half in Berlin, I returned to Poland. During my time in Berlin, I worked at **Neofonie Mobile GmbH**, where I led the development of **Bild on iPad** and an app for the **Berliner Philharmoniker**.
 
-From 2014 until 2017 I was working at **Applause Inc.**, where I was responsible for iOS team. During that period I focused on defining workflows and processes that help to maintain and deliver products for iOS platform.
+Back in Warsaw, I joined **Taptera Poland**, contributing to several enterprise projects for U.S. clients. From 2014 to 2017, I worked at **Applause Inc.**, leading the iOS team. My focus was on defining workflows and processes to streamline the development and delivery of iOS products.
 
-In addition, throughout 2017 I was also a consultant in **Sependa** -- mainly helping with their flag product called Crescendo.
+In 2017, I began consulting for **Sependa**, primarily on their flagship product, **Crescendo**. Later that year, I joined **YND Consult GmbH**, where I led the iOS team to build an in-house product that was soon released to the public.
 
-Between July 2017 and February 2018 I was working at **YND Consult GmbH**, where I was a lead of the iOS team that builds an in-house product -- soon to be released to public.
+From March 2018 to September 2022, I was part of the Paris-based startup [**The Fabulous**](https://thefabulous.co). We developed a science-based app, incubated in Duke University's Behavioral Economics Lab, designed to help users build healthy habits and routines.
 
-Starting from March 2018 until September 2022 I was part of a Paris based startup [**The Fabulous**](https://thefabulous.co) -- where we developed a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
+In October 2022, I joined [**Beekeeper**](https://www.beekeeper.io) as a **Principal Mobile Engineer**. At Beekeeper, we build innovative products tailored to frontline workers, serving customers across Switzerland, Germany, and the U.S.
 
-In October 2022 I joined [Beekeeper](https://www.beekeeper.io) as **Principle Mobile Engineer** where we build product for front-line workers for Swiss, German and US customers.
+### Additional Roles
 
-As a part time job I'm also a co-founder of **Mobile Academy** -- organization for mobile workshops.
+I am also the co-founder of **Mobile Academy**, an organization dedicated to providing hands-on mobile development workshops.
 
-In my spare time I do a little bit of swimming and cycling: <a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='https://www.strava.com/athletes/9515088' target="_clean">
+### Personal Interests
+
+In my free time, I enjoy swimming and road cycling. Feel free to follow my activities on Strava:
+
+<a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='https://www.strava.com/athletes/9515088' target="_clean">
   Follow me on
   <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
 </a>
