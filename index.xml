@@ -53,14 +53,13 @@ Technical details We built Swifjection for our use in the first place. These are
     </item>
     
     <item>
-      <title>About me</title>
+      <title>About Me</title>
       <link>https://zubala.com/about/</link>
       <pubDate>Sat, 21 Jan 2017 14:37:18 +0100</pubDate>
       
       <guid>https://zubala.com/about/</guid>
-      <description>I&amp;rsquo;m a software developer from Warsaw, Poland. I have graduated from Warsaw University of Technology at the Faculty of Electronics and Information Technology. I have solid background in digital signal processing and advanced video coding.
-Software was my hobby from an early age, my first code was on Amstrad in QBASIC. I&amp;rsquo;m passionate about Apple products and my favorite programming languages are: Swift, Objective-C, C and Python.
-Since 2010 I professionally develop iOS applications, my first commercial project was Polityka - the polish weekly magazine on iPad.</description>
+      <description>I&amp;rsquo;m a software developer based in Warsaw, Poland. I graduated from the Warsaw University of Technology, Faculty of Electronics and Information Technology, with a strong foundation in digital signal processing and advanced video coding.
+I have been passionate about software development since an early age, starting with my first code written in QBASIC on an Amstrad computer. I am an enthusiast of Apple products, and my favorite programming languages are Swift, Objective-C, C, and Python.</description>
     </item>
     
     <item>
