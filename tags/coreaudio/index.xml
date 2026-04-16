@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CoreAudio on Aleksander Zubala</title>
-    <link>http://localhost:1313/tags/coreaudio/</link>
+    <link>https://zubala.com/tags/coreaudio/</link>
     <description>Recent content in CoreAudio on Aleksander Zubala</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Mar 2011 15:29:44 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/coreaudio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zubala.com/tags/coreaudio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AAC&#43; Player</title>
-      <link>http://localhost:1313/projects/aac_player/</link>
+      <link>https://zubala.com/projects/aac_player/</link>
       <pubDate>Tue, 01 Mar 2011 15:29:44 +0100</pubDate>
-      <guid>http://localhost:1313/projects/aac_player/</guid>
+      <guid>https://zubala.com/projects/aac_player/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Fully featured player for audio streams encoded with AAC+. Framework provide mechanism for buffering the stream and playback control. Library packaged in the way the systems frameworks are.&lt;/p&gt;
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vat on Aleksander Zubala</title>
-    <link>http://localhost:1313/tags/vat/</link>
+    <link>https://zubala.com/tags/vat/</link>
     <description>Recent content in Vat on Aleksander Zubala</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 22 Jan 2017 19:52:48 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zubala.com/tags/vat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dane do faktury</title>
-      <link>http://localhost:1313/faktura/</link>
+      <link>https://zubala.com/faktura/</link>
       <pubDate>Sun, 22 Jan 2017 19:52:48 +0100</pubDate>
-      <guid>http://localhost:1313/faktura/</guid>
+      <guid>https://zubala.com/faktura/</guid>
       <description>&lt;p&gt;azoobie Aleksander Zubala&lt;/br&gt;
 ul. Melchiora Wańkowicza 4 m. 30 &lt;/br&gt;
 02-796 Warszawa&lt;/br&gt;&lt;/br&gt;

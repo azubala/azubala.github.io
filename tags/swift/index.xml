@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Swift on Aleksander Zubala</title>
-    <link>http://localhost:1313/tags/swift/</link>
+    <link>https://zubala.com/tags/swift/</link>
     <description>Recent content in Swift on Aleksander Zubala</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zubala.com/tags/swift/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCMockitoSwift</title>
-      <link>http://localhost:1313/projects/ocmockitoswift/</link>
+      <link>https://zubala.com/projects/ocmockitoswift/</link>
       <pubDate>Fri, 16 Mar 2018 13:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/projects/ocmockitoswift/</guid>
+      <guid>https://zubala.com/projects/ocmockitoswift/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/azubala/OCMockitoSwift&#34;&gt;&lt;strong&gt;OCMockitoSwift&lt;/strong&gt;&lt;/a&gt; is OCMockito adapter for Swift, that allows to create and operate on mocks which are subclasses for &lt;code&gt;NSObject&lt;/code&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical details&lt;/h3&gt;
@@ -29,9 +29,9 @@
     </item>
     <item>
       <title>SzopPrecz</title>
-      <link>http://localhost:1313/projects/szopprecz/</link>
+      <link>https://zubala.com/projects/szopprecz/</link>
       <pubDate>Tue, 20 Feb 2018 15:29:44 +0100</pubDate>
-      <guid>http://localhost:1313/projects/szopprecz/</guid>
+      <guid>https://zubala.com/projects/szopprecz/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;“SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.&lt;/p&gt;
 &lt;p&gt;Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.&lt;/p&gt;
@@ -46,9 +46,9 @@
     </item>
     <item>
       <title>Swifjection</title>
-      <link>http://localhost:1313/projects/swifjection/</link>
+      <link>https://zubala.com/projects/swifjection/</link>
       <pubDate>Wed, 01 Mar 2017 15:29:44 +0100</pubDate>
-      <guid>http://localhost:1313/projects/swifjection/</guid>
+      <guid>https://zubala.com/projects/swifjection/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/ApplauseOSS/Swifjection&#34;&gt;Swifjection&lt;/a&gt; &amp;ndash; lightweight and simplistic dependency injection framework written in Swift for Swift .&lt;/p&gt;
 &lt;p&gt;The main idea behind this project is to achieve DI for Swift objects that does not inherit from Objective-C classes.&lt;/p&gt;

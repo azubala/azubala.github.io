@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VIPER on Aleksander Zubala</title>
-    <link>http://localhost:1313/tags/viper/</link>
+    <link>https://zubala.com/tags/viper/</link>
     <description>Recent content in VIPER on Aleksander Zubala</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/viper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zubala.com/tags/viper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SzopPrecz</title>
-      <link>http://localhost:1313/projects/szopprecz/</link>
+      <link>https://zubala.com/projects/szopprecz/</link>
       <pubDate>Tue, 20 Feb 2018 15:29:44 +0100</pubDate>
-      <guid>http://localhost:1313/projects/szopprecz/</guid>
+      <guid>https://zubala.com/projects/szopprecz/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;“SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.&lt;/p&gt;
 &lt;p&gt;Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.&lt;/p&gt;
