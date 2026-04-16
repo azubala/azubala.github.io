@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SDK on Aleksander Zubala</title>
-    <link>https://zubala.com/tags/sdk/</link>
+    <link>http://localhost:1313/tags/sdk/</link>
     <description>Recent content in SDK on Aleksander Zubala</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2015 19:36:49 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2015 19:36:49 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applause iOS SDK</title>
-      <link>https://zubala.com/projects/applause/</link>
+      <link>http://localhost:1313/projects/applause/</link>
       <pubDate>Tue, 01 Sep 2015 19:36:49 +0100</pubDate>
-      
-      <guid>https://zubala.com/projects/applause/</guid>
-      <description>Overview Applause iOS SDK is a framework for Mobie Beta Management service. It&amp;rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.</description>
+      <guid>http://localhost:1313/projects/applause/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Applause iOS SDK is a framework for &lt;a href=&#34;https://www.applause.com/mobile-beta-management/&#34;&gt;Mobie Beta Management service&lt;/a&gt;. It&amp;rsquo;s a library that customer integrates with his application in order to receive users feedback and bug reports about his product. In addition Beta Management also includes participant session information as well as automatic crash reporting. To make sense of all the incoming data, the dashboard filters and neatly organizes bugs, feedback, session logs and crash reports in real time to maximize your efficiency.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

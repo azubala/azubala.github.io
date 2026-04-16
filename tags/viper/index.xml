@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VIPER on Aleksander Zubala</title>
-    <link>https://zubala.com/tags/viper/</link>
+    <link>http://localhost:1313/tags/viper/</link>
     <description>Recent content in VIPER on Aleksander Zubala</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/viper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2018 15:29:44 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/viper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SzopPrecz</title>
-      <link>https://zubala.com/projects/szopprecz/</link>
+      <link>http://localhost:1313/projects/szopprecz/</link>
       <pubDate>Tue, 20 Feb 2018 15:29:44 +0100</pubDate>
-      
-      <guid>https://zubala.com/projects/szopprecz/</guid>
-      <description>Overview “SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.
-Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.
-Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.
-Features:
- check shops availability for current day schedule notification for upcoming shops close down browse through the close down schedule for 2018  Coming Soon:</description>
+      <guid>http://localhost:1313/projects/szopprecz/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;“SzopPrecz” (eng. Raccoon) is simple yet useful application for checking shops availability in Poland.&lt;/p&gt;
+&lt;p&gt;Starting from March 2018, shops will be closed on some Sundays (enforced by law), which leaves a burden of remembering the schedule.&lt;/p&gt;
+&lt;p&gt;Enter “SzopPrecz” — whether you’re a resident or just visiting Poland, it’s an easy way to check if shops are opened.&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;check shops availability for current day&lt;/li&gt;
+&lt;li&gt;schedule notification for upcoming shops close down&lt;/li&gt;
+&lt;li&gt;browse through the close down schedule for 2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Coming Soon:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

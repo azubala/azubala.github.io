@@ -1,200 +1,166 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Aleksander Zubala</title>
-    <link>https://zubala.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Aleksander Zubala</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Mar 2018 13:00:00 +0100</lastBuildDate><atom:link href="https://zubala.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>iOS</title>
-      <link>https://zubala.com/tags/ios/</link>
-      <pubDate>Fri, 16 Mar 2018 13:00:00 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/ios/</guid>
+      <title>Meta</title>
+      <link>http://localhost:1313/tags/meta/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/meta/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>IOS</title>
+      <link>http://localhost:1313/tags/ios/</link>
+      <pubDate>Fri, 16 Mar 2018 13:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ios/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Open Source</title>
-      <link>https://zubala.com/tags/open-source/</link>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Fri, 16 Mar 2018 13:00:00 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Swift</title>
-      <link>https://zubala.com/tags/swift/</link>
+      <link>http://localhost:1313/tags/swift/</link>
       <pubDate>Fri, 16 Mar 2018 13:00:00 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/swift/</guid>
+      <guid>http://localhost:1313/tags/swift/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VIPER</title>
-      <link>https://zubala.com/tags/viper/</link>
+      <link>http://localhost:1313/tags/viper/</link>
       <pubDate>Tue, 20 Feb 2018 15:29:44 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/viper/</guid>
+      <guid>http://localhost:1313/tags/viper/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>faktura</title>
-      <link>https://zubala.com/tags/faktura/</link>
+      <title>Faktura</title>
+      <link>http://localhost:1313/tags/faktura/</link>
       <pubDate>Sun, 22 Jan 2017 19:52:48 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/faktura/</guid>
+      <guid>http://localhost:1313/tags/faktura/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vat</title>
-      <link>https://zubala.com/tags/vat/</link>
+      <title>Vat</title>
+      <link>http://localhost:1313/tags/vat/</link>
       <pubDate>Sun, 22 Jan 2017 19:52:48 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/vat/</guid>
+      <guid>http://localhost:1313/tags/vat/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Applause</title>
-      <link>https://zubala.com/tags/applause/</link>
+      <link>http://localhost:1313/tags/applause/</link>
       <pubDate>Tue, 01 Sep 2015 19:36:49 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/applause/</guid>
+      <guid>http://localhost:1313/tags/applause/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MBM</title>
-      <link>https://zubala.com/tags/mbm/</link>
+      <link>http://localhost:1313/tags/mbm/</link>
       <pubDate>Tue, 01 Sep 2015 19:36:49 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/mbm/</guid>
+      <guid>http://localhost:1313/tags/mbm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SDK</title>
-      <link>https://zubala.com/tags/sdk/</link>
+      <link>http://localhost:1313/tags/sdk/</link>
       <pubDate>Tue, 01 Sep 2015 19:36:49 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/sdk/</guid>
+      <guid>http://localhost:1313/tags/sdk/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>iPad</title>
-      <link>https://zubala.com/tags/ipad/</link>
+      <title>IPad</title>
+      <link>http://localhost:1313/tags/ipad/</link>
       <pubDate>Fri, 01 Aug 2014 15:50:30 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/ipad/</guid>
+      <guid>http://localhost:1313/tags/ipad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Taptera</title>
-      <link>https://zubala.com/tags/taptera/</link>
+      <link>http://localhost:1313/tags/taptera/</link>
       <pubDate>Fri, 01 Aug 2014 15:50:30 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/taptera/</guid>
+      <guid>http://localhost:1313/tags/taptera/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UICollectionView</title>
-      <link>https://zubala.com/tags/uicollectionview/</link>
+      <link>http://localhost:1313/tags/uicollectionview/</link>
       <pubDate>Fri, 01 Aug 2014 15:50:30 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/uicollectionview/</guid>
+      <guid>http://localhost:1313/tags/uicollectionview/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Freelance</title>
-      <link>https://zubala.com/tags/freelance/</link>
+      <link>http://localhost:1313/tags/freelance/</link>
       <pubDate>Mon, 01 Jul 2013 15:52:28 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/freelance/</guid>
+      <guid>http://localhost:1313/tags/freelance/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>iPhone</title>
-      <link>https://zubala.com/tags/iphone/</link>
+      <title>IPhone</title>
+      <link>http://localhost:1313/tags/iphone/</link>
       <pubDate>Mon, 01 Jul 2013 15:52:28 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/iphone/</guid>
+      <guid>http://localhost:1313/tags/iphone/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mobile-Academy</title>
-      <link>https://zubala.com/tags/mobile-academy/</link>
+      <link>http://localhost:1313/tags/mobile-academy/</link>
       <pubDate>Wed, 01 May 2013 15:54:36 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/mobile-academy/</guid>
+      <guid>http://localhost:1313/tags/mobile-academy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Workshops</title>
-      <link>https://zubala.com/tags/workshops/</link>
+      <link>http://localhost:1313/tags/workshops/</link>
       <pubDate>Wed, 01 May 2013 15:54:36 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/workshops/</guid>
+      <guid>http://localhost:1313/tags/workshops/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Berlin</title>
-      <link>https://zubala.com/tags/berlin/</link>
+      <link>http://localhost:1313/tags/berlin/</link>
       <pubDate>Wed, 01 May 2013 15:29:44 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/berlin/</guid>
+      <guid>http://localhost:1313/tags/berlin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Neofonie</title>
-      <link>https://zubala.com/tags/neofonie/</link>
+      <link>http://localhost:1313/tags/neofonie/</link>
       <pubDate>Wed, 01 May 2013 15:29:44 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/neofonie/</guid>
+      <guid>http://localhost:1313/tags/neofonie/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CoreText</title>
-      <link>https://zubala.com/tags/coretext/</link>
+      <link>http://localhost:1313/tags/coretext/</link>
       <pubDate>Thu, 01 Mar 2012 15:57:30 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/coretext/</guid>
+      <guid>http://localhost:1313/tags/coretext/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CoreAudio</title>
-      <link>https://zubala.com/tags/coreaudio/</link>
+      <link>http://localhost:1313/tags/coreaudio/</link>
       <pubDate>Tue, 01 Mar 2011 15:29:44 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/coreaudio/</guid>
+      <guid>http://localhost:1313/tags/coreaudio/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Polidea</title>
-      <link>https://zubala.com/tags/polidea/</link>
+      <link>http://localhost:1313/tags/polidea/</link>
       <pubDate>Fri, 01 Jan 2010 15:56:13 +0100</pubDate>
-      
-      <guid>https://zubala.com/tags/polidea/</guid>
+      <guid>http://localhost:1313/tags/polidea/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
