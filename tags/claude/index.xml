@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Notes on Aleksander Zubala</title>
-    <link>https://zubala.com/notes/</link>
-    <description>Recent content in Notes on Aleksander Zubala</description>
+    <title>Claude on Aleksander Zubala</title>
+    <link>https://zubala.com/tags/claude/</link>
+    <description>Recent content in Claude on Aleksander Zubala</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 16 Apr 2026 15:34:58 +0200</lastBuildDate>
-    <atom:link href="https://zubala.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zubala.com/tags/claude/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI reviewing AI</title>
       <link>https://zubala.com/notes/ai-in-sdlc/</link>
@@ -20,14 +20,6 @@ Then the author asks Claude to fix the PR and re-submit.&lt;/p&gt;
 &lt;p&gt;It works… but for how long?&lt;/p&gt;
 &lt;p&gt;If we continue down this path, we risk becoming increasingly detached from what’s actually happening in our codebases.&lt;/p&gt;
 &lt;p&gt;That gap might not matter — until it suddenly does.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello, Notes</title>
-      <link>https://zubala.com/notes/hello-notes/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://zubala.com/notes/hello-notes/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always struggled with the binary of &amp;ldquo;write a proper blog post&amp;rdquo; or &amp;ldquo;write nothing.&amp;rdquo; A proper post means having a complete thought, a clear structure, time to edit. Most of the time I don&amp;rsquo;t have that — but I do have things worth writing down.&lt;/p&gt;
-&lt;p&gt;So this section exists for everything in between: short observations, things I figured out, opinions I&amp;rsquo;m not sure about yet, stuff I&amp;rsquo;d otherwise just send to a colleague in Slack and forget.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
