@@ -1,67 +1,98 @@
 ## Basic Configuration
 
 baseurl = "https://zubala.com/"
-builddrafts = false
-canonifyurls = false
 languageCode = "en-US"
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "../"
-
-author = "Aleksander Zubala"
 title = "Aleksander Zubala"
+theme = "PaperMod"
 
-theme = "hugo-goa"
-
-## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "UA-90751160-1"
+publishDir = "../"
 enableRobotsTXT = true
+buildDrafts = false
+googleAnalytics = "UA-90751160-1"
 
-## Site Settings
+## Allow inline HTML in Markdown (needed for some content)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+## Site Params
 [params]
-author = "Aleksander Zubala"
-intro = "Software Engineer"
-description = "iOS Developer since 2010"
-authorimage = "me.jpg"
-dateformat = "Jan 2, 2006"
+  author = "Aleksander Zubala"
+  description = "Mobile Engineer & Tech Lead — iOS, KMP, Swift"
+  env = "production"
+  dateFormat = "Jan 2, 2006"
+  defaultTheme = "auto"        # auto follows system dark/light preference
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  disableSpecial1stPost = true
+  hideFooter = false
 
-## Site Meta Settings
+  ## Profile mode — shown on the homepage
+  [params.profileMode]
+    enabled = true
+    title = "Aleksander Zubala"
+    subtitle = "Mobile Engineer · Tech Lead"
+    imageUrl = "/img/me.jpg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Aleksander Zubala"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about/"
+
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects/"
+
+    [[params.profileMode.buttons]]
+      name = "Notes"
+      url = "/notes/"
+
+## Social Icons (shown on homepage profile)
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/azubala"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/aleksanderzubala"
+
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/alekzubala"
+
+[[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com/users/4655732"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:alek@zubala.com"
+
+## Meta
 [params.meta]
-description = "Aleksander Zubala: iOS Developer"
-keywords = "zubala,ios,swift,objective-c,apple,iphone,ipad,software,blog"
+  description = "Aleksander Zubala – Mobile Engineer and Tech Lead"
+  keywords = "zubala,ios,swift,kotlin,kmp,mobile,apple,tech lead"
 
-## Social Accounts
-[params.social]
-github = "azubala"
-instagram = "alekzubala"
-linkedin = "aleksanderzubala"
-twitter = "alekzubala"
-facebook = "aleksander.zubala"
-# google = "113073625905883377159"
-stackoverflow = "4655732"
-email = "alek@zubala.com"
-
-## Extras
-[params.extra]
-copyright = "© 2025 Aleksander Zubala"
-poweredby = true
-hightlightjs = true
+## Pagination (Hugo 0.128+)
+[pagination]
+  pagerSize = 10
 
 ## Main Menu
 [[menu.main]]
-    name = "about me"
-    identifier = "about"
-    weight = 100
-    url = "/about/"
-# [[menu.main]]
-#     name = "blog"
-#     weight = 200
-#     identifier = "blog"
-#     url = "/blog/"
+  name = "about"
+  url = "/about/"
+  weight = 10
+
 [[menu.main]]
-    name = "projects"
-    identifier = "projects"
-    weight = 300
-    url = "/projects/"
+  name = "projects"
+  url = "/projects/"
+  weight = 20
+
+[[menu.main]]
+  name = "notes"
+  url = "/notes/"
+  weight = 30
