@@ -5,10 +5,8 @@ draft: false
 tags: ["meta"]
 ---
 
-This is the notes section — a place for short thoughts, findings, and things worth writing down. No pressure to be comprehensive, no need to be polished. Just a lightweight place to put things.
+I've always struggled with the binary of "write a proper blog post" or "write nothing." A proper post means having a complete thought, a clear structure, time to edit. Most of the time I don't have that — but I do have things worth writing down.
 
-To create a new note:
+So this section exists for everything in between: short observations, things I figured out, opinions I'm not sure about yet, stuff I'd otherwise just send to a colleague in Slack and forget.
 
-```bash
-cd hugo && hugo new notes/my-note-title.md
-```
+No guaranteed cadence. No guarantee of polish. Just notes.

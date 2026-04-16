@@ -13,10 +13,8 @@
       <link>http://localhost:1313/notes/hello-notes/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/hello-notes/</guid>
-      <description>&lt;p&gt;This is the notes section — a place for short thoughts, findings, and things worth writing down. No pressure to be comprehensive, no need to be polished. Just a lightweight place to put things.&lt;/p&gt;
-&lt;p&gt;To create a new note:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd hugo &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hugo new notes/my-note-title.md
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve always struggled with the binary of &amp;ldquo;write a proper blog post&amp;rdquo; or &amp;ldquo;write nothing.&amp;rdquo; A proper post means having a complete thought, a clear structure, time to edit. Most of the time I don&amp;rsquo;t have that — but I do have things worth writing down.&lt;/p&gt;
+&lt;p&gt;So this section exists for everything in between: short observations, things I figured out, opinions I&amp;rsquo;m not sure about yet, stuff I&amp;rsquo;d otherwise just send to a colleague in Slack and forget.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
